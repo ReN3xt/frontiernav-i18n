@@ -161,7 +161,7 @@
   },
   "collectible1i32": {
     "data": {
-      "name": "Filal Filth"
+      "name": "Fillal Filth"
     }
   },
   "collectible1i33": {
@@ -7057,6 +7057,11 @@
   "h2hscadm1470": {
     "data": {
       "name": "Nagi's 1st Heart-to-Heart"
+    }
+  },
+  "n350": {
+    "data": {
+      "name": "Planetary Pioneer (Part I)"
     }
   }
 }
