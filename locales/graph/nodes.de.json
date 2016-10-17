@@ -1,0 +1,7067 @@
+{
+  "collectible1i0": {
+    "data": {
+      "name": "Ajira Melon"
+    }
+  },
+  "collectible1i1": {
+    "data": {
+      "name": "Cranjelly"
+    }
+  },
+  "collectible1i2": {
+    "data": {
+      "name": "Zesian Fleawort"
+    }
+  },
+  "collectible1i3": {
+    "data": {
+      "name": "Rizattice"
+    }
+  },
+  "collectible1i4": {
+    "data": {
+      "name": "Ball Mosquito"
+    }
+  },
+  "collectible1i5": {
+    "data": {
+      "name": "Deflection Shield Mirror"
+    }
+  },
+  "collectible1i6": {
+    "data": {
+      "name": "L-002 Fuel Tank"
+    }
+  },
+  "collectible1i7": {
+    "data": {
+      "name": "L-002 Space Analyzer"
+    }
+  },
+  "collectible1i8": {
+    "data": {
+      "name": "Lacey Potato"
+    }
+  },
+  "collectible1i9": {
+    "data": {
+      "name": "Strawlenny"
+    }
+  },
+  "collectible1i10": {
+    "data": {
+      "name": "Starlight Apple"
+    }
+  },
+  "collectible1i11": {
+    "data": {
+      "name": "Sweet Nerine"
+    }
+  },
+  "collectible1i12": {
+    "data": {
+      "name": "Golden Sardine"
+    }
+  },
+  "collectible1i13": {
+    "data": {
+      "name": "Keppo Carrot"
+    }
+  },
+  "collectible1i14": {
+    "data": {
+      "name": "Arnacian Orewood"
+    }
+  },
+  "collectible1i15": {
+    "data": {
+      "name": "Hummingstone"
+    }
+  },
+  "collectible1i16": {
+    "data": {
+      "name": "Anhydrous Radiator"
+    }
+  },
+  "collectible1i17": {
+    "data": {
+      "name": "Kiran Catnip"
+    }
+  },
+  "collectible1i18": {
+    "data": {
+      "name": "Crawling Bat"
+    }
+  },
+  "collectible1i19": {
+    "data": {
+      "name": "Zizi Rabbit"
+    }
+  },
+  "collectible1i20": {
+    "data": {
+      "name": "Ancient Allure"
+    }
+  },
+  "collectible1i21": {
+    "data": {
+      "name": "Hemp Wallet"
+    }
+  },
+  "collectible1i22": {
+    "data": {
+      "name": "Grosium Core"
+    }
+  },
+  "collectible1i23": {
+    "data": {
+      "name": "Stretching Locust"
+    }
+  },
+  "collectible1i24": {
+    "data": {
+      "name": "Multi-Speckled Ladybug"
+    }
+  },
+  "collectible1i25": {
+    "data": {
+      "name": "Centrifugal Beam Generator"
+    }
+  },
+  "collectible1i26": {
+    "data": {
+      "name": "Vagabond Ant"
+    }
+  },
+  "collectible1i27": {
+    "data": {
+      "name": "Amidresian Tomato"
+    }
+  },
+  "collectible1i28": {
+    "data": {
+      "name": "Nirvana Jonquil"
+    }
+  },
+  "collectible1i29": {
+    "data": {
+      "name": "Coaletri"
+    }
+  },
+  "collectible1i30": {
+    "data": {
+      "name": "Meditation Powder"
+    }
+  },
+  "collectible1i31": {
+    "data": {
+      "name": "High Accelerator"
+    }
+  },
+  "collectible1i32": {
+    "data": {
+      "name": "Fillal Filth"
+    }
+  },
+  "collectible1i33": {
+    "data": {
+      "name": "Sanelac Pearl"
+    }
+  },
+  "collectible1i34": {
+    "data": {
+      "name": "Flecked Bottle"
+    }
+  },
+  "collectible1i35": {
+    "data": {
+      "name": "Noranlily"
+    }
+  },
+  "collectible1i36": {
+    "data": {
+      "name": "Grinding Squirrel"
+    }
+  },
+  "collectible1i37": {
+    "data": {
+      "name": "Logunie's Driftwood"
+    }
+  },
+  "collectible1i38": {
+    "data": {
+      "name": "Crush Ring"
+    }
+  },
+  "collectible1i39": {
+    "data": {
+      "name": "Acorn Abacus"
+    }
+  },
+  "collectible1i40": {
+    "data": {
+      "name": "Facewood"
+    }
+  },
+  "collectible1i41": {
+    "data": {
+      "name": "Auroran Bone"
+    }
+  },
+  "collectible1i42": {
+    "data": {
+      "name": "Heatproof Inox Pipe"
+    }
+  },
+  "collectible1i43": {
+    "data": {
+      "name": "Rock-Orange"
+    }
+  },
+  "collectible1i44": {
+    "data": {
+      "name": "Sadelana Lettuce"
+    }
+  },
+  "collectible1i45": {
+    "data": {
+      "name": "Mondcherry"
+    }
+  },
+  "collectible1i46": {
+    "data": {
+      "name": "Doga Dandelion"
+    }
+  },
+  "collectible1i47": {
+    "data": {
+      "name": "Ashizel"
+    }
+  },
+  "collectible1i48": {
+    "data": {
+      "name": "T-Ray Light"
+    }
+  },
+  "collectible1i49": {
+    "data": {
+      "name": "Tractor Beetle"
+    }
+  },
+  "collectible1i50": {
+    "data": {
+      "name": "White Iron Sand"
+    }
+  },
+  "collectible1i51": {
+    "data": {
+      "name": "Mosa Cabbage"
+    }
+  },
+  "collectible1i52": {
+    "data": {
+      "name": "Sonar Lemon"
+    }
+  },
+  "collectible1i53": {
+    "data": {
+      "name": "Meteo Eater"
+    }
+  },
+  "collectible1i54": {
+    "data": {
+      "name": "Assassin Springtail"
+    }
+  },
+  "collectible1i55": {
+    "data": {
+      "name": "US-X Space Suit"
+    }
+  },
+  "collectible1i56": {
+    "data": {
+      "name": "Jagged Mortar"
+    }
+  },
+  "collectible1i57": {
+    "data": {
+      "name": "Sona Herb"
+    }
+  },
+  "collectible1i58": {
+    "data": {
+      "name": "Goddess's Kiss"
+    }
+  },
+  "collectible1i59": {
+    "data": {
+      "name": "California Sunset"
+    }
+  },
+  "collectible1i60": {
+    "data": {
+      "name": "Mirage Scope"
+    }
+  },
+  "collectible1i61": {
+    "data": {
+      "name": "Garudo Pellionia Minima"
+    }
+  },
+  "collectible2i0": {
+    "data": {
+      "name": "Socha Guava"
+    }
+  },
+  "collectible2i1": {
+    "data": {
+      "name": "Timid Sunflower"
+    }
+  },
+  "collectible2i2": {
+    "data": {
+      "name": "Rock Armadillo"
+    }
+  },
+  "collectible2i3": {
+    "data": {
+      "name": "Noctilucent Dragonfly"
+    }
+  },
+  "collectible2i4": {
+    "data": {
+      "name": "Madness Hornet"
+    }
+  },
+  "collectible2i5": {
+    "data": {
+      "name": "Katoan Leaf"
+    }
+  },
+  "collectible2i6": {
+    "data": {
+      "name": "Earthfreezer"
+    }
+  },
+  "collectible2i7": {
+    "data": {
+      "name": "Gluttonutan Clay"
+    }
+  },
+  "collectible2i8": {
+    "data": {
+      "name": "Chameleon Creeping Plant"
+    }
+  },
+  "collectible2i9": {
+    "data": {
+      "name": "Amana Durian"
+    }
+  },
+  "collectible2i10": {
+    "data": {
+      "name": "Babaco Leaf"
+    }
+  },
+  "collectible2i11": {
+    "data": {
+      "name": "False Cedar"
+    }
+  },
+  "collectible2i12": {
+    "data": {
+      "name": "Iguari"
+    }
+  },
+  "collectible2i13": {
+    "data": {
+      "name": "Bananaleaf"
+    }
+  },
+  "collectible2i14": {
+    "data": {
+      "name": "Godmelon"
+    }
+  },
+  "collectible2i15": {
+    "data": {
+      "name": "Nostalgia L-002"
+    }
+  },
+  "collectible2i16": {
+    "data": {
+      "name": "Zandemo Eggplant"
+    }
+  },
+  "collectible2i17": {
+    "data": {
+      "name": "Mk. IX Hypercooler"
+    }
+  },
+  "collectible2i18": {
+    "data": {
+      "name": "Sleeping Amaryllis"
+    }
+  },
+  "collectible2i19": {
+    "data": {
+      "name": "Flowering Morrow Fern"
+    }
+  },
+  "collectible2i20": {
+    "data": {
+      "name": "Fodornallow Greens"
+    }
+  },
+  "collectible2i21": {
+    "data": {
+      "name": "Resonating Madonater"
+    }
+  },
+  "collectible2i22": {
+    "data": {
+      "name": "Morphling Flounder"
+    }
+  },
+  "collectible2i23": {
+    "data": {
+      "name": "Loathsome Blob"
+    }
+  },
+  "collectible2i24": {
+    "data": {
+      "name": "Gesture Glove"
+    }
+  },
+  "collectible2i25": {
+    "data": {
+      "name": "Logunie's Driftwood Boat"
+    }
+  },
+  "collectible2i26": {
+    "data": {
+      "name": "Sour Plum"
+    }
+  },
+  "collectible2i27": {
+    "data": {
+      "name": "Eternal Moss"
+    }
+  },
+  "collectible2i28": {
+    "data": {
+      "name": "Primitive Colossus Statue"
+    }
+  },
+  "collectible2i29": {
+    "data": {
+      "name": "Lea Lily"
+    }
+  },
+  "collectible2i30": {
+    "data": {
+      "name": "Strobing Horsefly"
+    }
+  },
+  "collectible2i31": {
+    "data": {
+      "name": "Gleaming Magnet"
+    }
+  },
+  "collectible2i32": {
+    "data": {
+      "name": "Fraudulent Mirror"
+    }
+  },
+  "collectible2i33": {
+    "data": {
+      "name": "Galjim Crystal"
+    }
+  },
+  "collectible2i34": {
+    "data": {
+      "name": "Hexagauge"
+    }
+  },
+  "collectible2i35": {
+    "data": {
+      "name": "Spherical EM Motor"
+    }
+  },
+  "collectible2i36": {
+    "data": {
+      "name": "Madame Mantis"
+    }
+  },
+  "collectible2i37": {
+    "data": {
+      "name": "Pardo Spider"
+    }
+  },
+  "collectible2i38": {
+    "data": {
+      "name": "Brain Terminal"
+    }
+  },
+  "collectible2i39": {
+    "data": {
+      "name": "3D Printer"
+    }
+  },
+  "collectible2i40": {
+    "data": {
+      "name": "Lava Mango"
+    }
+  },
+  "collectible2i41": {
+    "data": {
+      "name": "Mirrored Peacock"
+    }
+  },
+  "collectible2i42": {
+    "data": {
+      "name": "Sibercaseras Mushroom"
+    }
+  },
+  "collectible2i43": {
+    "data": {
+      "name": "HI9 Ion Thruster"
+    }
+  },
+  "collectible2i44": {
+    "data": {
+      "name": "Sea Anemone Platter"
+    }
+  },
+  "collectible2i45": {
+    "data": {
+      "name": "Gluttonutan"
+    }
+  },
+  "collectible2i46": {
+    "data": {
+      "name": "Harnenga Cotton"
+    }
+  },
+  "collectible2i47": {
+    "data": {
+      "name": "Absop's Swallowtail"
+    }
+  },
+  "collectible2i48": {
+    "data": {
+      "name": "Continental Jellyfish"
+    }
+  },
+  "collectible2i49": {
+    "data": {
+      "name": "Tenacious Moth"
+    }
+  },
+  "collectible2i50": {
+    "data": {
+      "name": "Prapaya"
+    }
+  },
+  "collectible2i51": {
+    "data": {
+      "name": "Caseras Mushroom"
+    }
+  },
+  "collectible2i52": {
+    "data": {
+      "name": "Noka Mirrorstone"
+    }
+  },
+  "collectible2i53": {
+    "data": {
+      "name": "Joadtank"
+    }
+  },
+  "collectible2i54": {
+    "data": {
+      "name": "Cane Soil"
+    }
+  },
+  "collectible2i55": {
+    "data": {
+      "name": "Shiny Lamp"
+    }
+  },
+  "collectible2i56": {
+    "data": {
+      "name": "Kusakiri Stag Beetle"
+    }
+  },
+  "collectible2i57": {
+    "data": {
+      "name": "Muneria Flower"
+    }
+  },
+  "collectible2i58": {
+    "data": {
+      "name": "Sekka Cosmos"
+    }
+  },
+  "collectible2i59": {
+    "data": {
+      "name": "Scales of Justice"
+    }
+  },
+  "collectible3i0": {
+    "data": {
+      "name": "Gubura Cabbage Leaf"
+    }
+  },
+  "collectible3i1": {
+    "data": {
+      "name": "Doragaroo"
+    }
+  },
+  "collectible3i2": {
+    "data": {
+      "name": "Jet Turtle"
+    }
+  },
+  "collectible3i3": {
+    "data": {
+      "name": "Fullbelly Gecko"
+    }
+  },
+  "collectible3i4": {
+    "data": {
+      "name": "Spine-O-Corrector"
+    }
+  },
+  "collectible3i5": {
+    "data": {
+      "name": "Ultra Filter"
+    }
+  },
+  "collectible3i6": {
+    "data": {
+      "name": "Strong Iron"
+    }
+  },
+  "collectible3i7": {
+    "data": {
+      "name": "Sacrificial Reactor"
+    }
+  },
+  "collectible3i8": {
+    "data": {
+      "name": "Cruise Deflector AiR"
+    }
+  },
+  "collectible3i9": {
+    "data": {
+      "name": "Gormless Monkey"
+    }
+  },
+  "collectible3i10": {
+    "data": {
+      "name": "Magical Finding Rod"
+    }
+  },
+  "collectible3i11": {
+    "data": {
+      "name": "Multi-Mirror Solar Drone"
+    }
+  },
+  "collectible3i12": {
+    "data": {
+      "name": "5th Gen Recycler"
+    }
+  },
+  "collectible3i13": {
+    "data": {
+      "name": "L-002 Degeneration Reactor"
+    }
+  },
+  "collectible3i14": {
+    "data": {
+      "name": "Imposter Bug"
+    }
+  },
+  "collectible3i15": {
+    "data": {
+      "name": "Sand Cucumber"
+    }
+  },
+  "collectible3i16": {
+    "data": {
+      "name": "Shadow Fly"
+    }
+  },
+  "collectible3i17": {
+    "data": {
+      "name": "Common Stick Insect"
+    }
+  },
+  "collectible3i18": {
+    "data": {
+      "name": "Angel Stone"
+    }
+  },
+  "collectible3i19": {
+    "data": {
+      "name": "Myuena Cactus"
+    }
+  },
+  "collectible3i20": {
+    "data": {
+      "name": "Dobobora Broccoli"
+    }
+  },
+  "collectible3i21": {
+    "data": {
+      "name": "Phantom Tanuki"
+    }
+  },
+  "collectible3i22": {
+    "data": {
+      "name": "Thornbox"
+    }
+  },
+  "collectible3i23": {
+    "data": {
+      "name": "Sandstone Etching"
+    }
+  },
+  "collectible3i24": {
+    "data": {
+      "name": "Wainess Fossil"
+    }
+  },
+  "collectible3i25": {
+    "data": {
+      "name": "Will Pepper"
+    }
+  },
+  "collectible3i26": {
+    "data": {
+      "name": "Royal Grape"
+    }
+  },
+  "collectible3i27": {
+    "data": {
+      "name": "Silvery Cactaceous Resin"
+    }
+  },
+  "collectible3i28": {
+    "data": {
+      "name": "Nopolith"
+    }
+  },
+  "collectible3i29": {
+    "data": {
+      "name": "Denemozumi Mouse"
+    }
+  },
+  "collectible3i30": {
+    "data": {
+      "name": "Jobo Primrose"
+    }
+  },
+  "collectible3i31": {
+    "data": {
+      "name": "Horned Helmet"
+    }
+  },
+  "collectible3i32": {
+    "data": {
+      "name": "Echo Rock"
+    }
+  },
+  "collectible3i33": {
+    "data": {
+      "name": "Illogical Etchings"
+    }
+  },
+  "collectible3i34": {
+    "data": {
+      "name": "Slasher Beetle"
+    }
+  },
+  "collectible3i35": {
+    "data": {
+      "name": "Kepha Holly"
+    }
+  },
+  "collectible3i36": {
+    "data": {
+      "name": "Shinuyuni Garlic"
+    }
+  },
+  "collectible3i37": {
+    "data": {
+      "name": "Octo-Suka"
+    }
+  },
+  "collectible3i38": {
+    "data": {
+      "name": "Blast Chard"
+    }
+  },
+  "collectible3i39": {
+    "data": {
+      "name": "Suna Watermelon"
+    }
+  },
+  "collectible3i40": {
+    "data": {
+      "name": "Whip Scorpion"
+    }
+  },
+  "collectible3i41": {
+    "data": {
+      "name": "Fleeting Baboon"
+    }
+  },
+  "collectible3i42": {
+    "data": {
+      "name": "Spiked Pomegranate"
+    }
+  },
+  "collectible3i43": {
+    "data": {
+      "name": "Kridokan Air"
+    }
+  },
+  "collectible3i44": {
+    "data": {
+      "name": "Cosse Bean"
+    }
+  },
+  "collectible3i45": {
+    "data": {
+      "name": "Zedis Twig"
+    }
+  },
+  "collectible3i46": {
+    "data": {
+      "name": "Kiwegg"
+    }
+  },
+  "collectible3i47": {
+    "data": {
+      "name": "Beagflea Squash"
+    }
+  },
+  "collectible3i48": {
+    "data": {
+      "name": "Charupa Leaves"
+    }
+  },
+  "collectible3i49": {
+    "data": {
+      "name": "Eradicator Eyepiece"
+    }
+  },
+  "collectible3i50": {
+    "data": {
+      "name": "Gudo Rocambole"
+    }
+  },
+  "collectible3i51": {
+    "data": {
+      "name": "Steel Tail Sheath"
+    }
+  },
+  "collectible3i52": {
+    "data": {
+      "name": "Exubera Stalactite"
+    }
+  },
+  "collectible3i53": {
+    "data": {
+      "name": "Warbone"
+    }
+  },
+  "collectible3i54": {
+    "data": {
+      "name": "Ouroboros Bracelet"
+    }
+  },
+  "collectible3i55": {
+    "data": {
+      "name": "Chameleon Sand"
+    }
+  },
+  "collectible3i56": {
+    "data": {
+      "name": "Mya Oats"
+    }
+  },
+  "collectible3i57": {
+    "data": {
+      "name": "Perished Stone Spear"
+    }
+  },
+  "collectible3i58": {
+    "data": {
+      "name": "Lost Memory Synthesizer"
+    }
+  },
+  "collectible3i59": {
+    "data": {
+      "name": "Moleworm"
+    }
+  },
+  "collectible3i60": {
+    "data": {
+      "name": "Venus Jewel"
+    }
+  },
+  "collectible3i61": {
+    "data": {
+      "name": "Drum of Valor"
+    }
+  },
+  "collectible4i0": {
+    "data": {
+      "name": "Bude Mugwort"
+    }
+  },
+  "collectible4i1": {
+    "data": {
+      "name": "White Sand Beetle"
+    }
+  },
+  "collectible4i2": {
+    "data": {
+      "name": "Dring Slick"
+    }
+  },
+  "collectible4i3": {
+    "data": {
+      "name": "Yabuyabu Ointment"
+    }
+  },
+  "collectible4i4": {
+    "data": {
+      "name": "Shimmering Skin"
+    }
+  },
+  "collectible4i5": {
+    "data": {
+      "name": "Double Helical Salt"
+    }
+  },
+  "collectible4i6": {
+    "data": {
+      "name": "Queen's Rapture"
+    }
+  },
+  "collectible4i7": {
+    "data": {
+      "name": "Stone Screw"
+    }
+  },
+  "collectible4i8": {
+    "data": {
+      "name": "Exploding Pansy"
+    }
+  },
+  "collectible4i9": {
+    "data": {
+      "name": "Antorus Rose"
+    }
+  },
+  "collectible4i10": {
+    "data": {
+      "name": "Taoman Acid"
+    }
+  },
+  "collectible4i11": {
+    "data": {
+      "name": "Shia Cattleya"
+    }
+  },
+  "collectible4i12": {
+    "data": {
+      "name": "Pomio Spore"
+    }
+  },
+  "collectible4i13": {
+    "data": {
+      "name": "Crystal Butterfly"
+    }
+  },
+  "collectible4i14": {
+    "data": {
+      "name": "Snowy Angelhair"
+    }
+  },
+  "collectible4i15": {
+    "data": {
+      "name": "Spore Balloon"
+    }
+  },
+  "collectible4i16": {
+    "data": {
+      "name": "Cold Berry"
+    }
+  },
+  "collectible4i17": {
+    "data": {
+      "name": "Starmaker"
+    }
+  },
+  "collectible4i18": {
+    "data": {
+      "name": "Jagitos Copper"
+    }
+  },
+  "collectible4i19": {
+    "data": {
+      "name": "Dosoram Bean"
+    }
+  },
+  "collectible4i20": {
+    "data": {
+      "name": "Trying Crown"
+    }
+  },
+  "collectible4i21": {
+    "data": {
+      "name": "Cluster Papaya"
+    }
+  },
+  "collectible4i22": {
+    "data": {
+      "name": "Straw Buoy"
+    }
+  },
+  "collectible4i23": {
+    "data": {
+      "name": "Strong Screw"
+    }
+  },
+  "collectible4i24": {
+    "data": {
+      "name": "Ruge Daikon"
+    }
+  },
+  "collectible4i25": {
+    "data": {
+      "name": "Coldberry"
+    }
+  },
+  "collectible4i26": {
+    "data": {
+      "name": "Grandan Rock"
+    }
+  },
+  "collectible4i27": {
+    "data": {
+      "name": "Spirit Wand"
+    }
+  },
+  "collectible4i28": {
+    "data": {
+      "name": "Intelligent Liquid Metal"
+    }
+  },
+  "collectible4i29": {
+    "data": {
+      "name": "Baibai Beetle"
+    }
+  },
+  "collectible4i30": {
+    "data": {
+      "name": "Cordless Transformer"
+    }
+  },
+  "collectible4i31": {
+    "data": {
+      "name": "Decoy DNA"
+    }
+  },
+  "collectible4i32": {
+    "data": {
+      "name": "Mizaria Celery"
+    }
+  },
+  "collectible4i33": {
+    "data": {
+      "name": "Flowering Egg"
+    }
+  },
+  "collectible4i34": {
+    "data": {
+      "name": "Hard Skin"
+    }
+  },
+  "collectible4i35": {
+    "data": {
+      "name": "White Cassis"
+    }
+  },
+  "collectible4i36": {
+    "data": {
+      "name": "Camocloak"
+    }
+  },
+  "collectible4i37": {
+    "data": {
+      "name": "L-002 Dagoo Heat Ray"
+    }
+  },
+  "collectible4i38": {
+    "data": {
+      "name": "A-HAB Autonomous AI"
+    }
+  },
+  "collectible4i39": {
+    "data": {
+      "name": "Acton Rock Shards"
+    }
+  },
+  "collectible4i40": {
+    "data": {
+      "name": "Brilliant Green Liquid"
+    }
+  },
+  "collectible4i41": {
+    "data": {
+      "name": "Missile Wiring"
+    }
+  },
+  "collectible4i42": {
+    "data": {
+      "name": "Berzerker Unit"
+    }
+  },
+  "collectible4i43": {
+    "data": {
+      "name": "Thunderbolt Emblem"
+    }
+  },
+  "collectible4i44": {
+    "data": {
+      "name": "Beaporge"
+    }
+  },
+  "collectible4i45": {
+    "data": {
+      "name": "Sese Lily"
+    }
+  },
+  "collectible4i46": {
+    "data": {
+      "name": "Diresheep"
+    }
+  },
+  "collectible4i47": {
+    "data": {
+      "name": "Stargazer"
+    }
+  },
+  "collectible4i48": {
+    "data": {
+      "name": "Affinity Soulchain"
+    }
+  },
+  "collectible4i49": {
+    "data": {
+      "name": "Rainy Cricket"
+    }
+  },
+  "collectible4i50": {
+    "data": {
+      "name": "Pale Maize"
+    }
+  },
+  "collectible4i51": {
+    "data": {
+      "name": "Penginion"
+    }
+  },
+  "collectible4i52": {
+    "data": {
+      "name": "Detilid Device"
+    }
+  },
+  "collectible4i53": {
+    "data": {
+      "name": "Shido Persimmon"
+    }
+  },
+  "collectible4i54": {
+    "data": {
+      "name": "Yaya Sesame"
+    }
+  },
+  "collectible4i55": {
+    "data": {
+      "name": "Medusa Squid"
+    }
+  },
+  "collectible4i56": {
+    "data": {
+      "name": "Emerald Grape"
+    }
+  },
+  "collectible4i57": {
+    "data": {
+      "name": "Fullerene Coral"
+    }
+  },
+  "collectible4i58": {
+    "data": {
+      "name": "Glassy Cricket"
+    }
+  },
+  "collectible4i59": {
+    "data": {
+      "name": "Hello Transmitter"
+    }
+  },
+  "collectible5i0": {
+    "data": {
+      "name": "Zalon Dirt"
+    }
+  },
+  "collectible5i1": {
+    "data": {
+      "name": "Rod of Brutality +10"
+    }
+  },
+  "collectible5i2": {
+    "data": {
+      "name": "Rogebra Shockstone"
+    }
+  },
+  "collectible5i3": {
+    "data": {
+      "name": "Poron Tulip"
+    }
+  },
+  "collectible5i4": {
+    "data": {
+      "name": "Dulcet Goose"
+    }
+  },
+  "collectible5i5": {
+    "data": {
+      "name": "Zagryin Cragstone"
+    }
+  },
+  "collectible5i6": {
+    "data": {
+      "name": "Bogano Weed"
+    }
+  },
+  "collectible5i7": {
+    "data": {
+      "name": "Muranadium"
+    }
+  },
+  "collectible5i8": {
+    "data": {
+      "name": "Elemental Battery"
+    }
+  },
+  "collectible5i9": {
+    "data": {
+      "name": "Mega Muscle Builder"
+    }
+  },
+  "collectible5i10": {
+    "data": {
+      "name": "Icarus Wings"
+    }
+  },
+  "collectible5i11": {
+    "data": {
+      "name": "Megajolt Rattle"
+    }
+  },
+  "collectible5i12": {
+    "data": {
+      "name": "Extra-Large Cash Box"
+    }
+  },
+  "collectible5i13": {
+    "data": {
+      "name": "Superior Scepter"
+    }
+  },
+  "collectible5i14": {
+    "data": {
+      "name": "Savage Sketch"
+    }
+  },
+  "collectible5i15": {
+    "data": {
+      "name": "Iron Akebi Fruit"
+    }
+  },
+  "collectible5i16": {
+    "data": {
+      "name": "Exalting Paint"
+    }
+  },
+  "collectible5i17": {
+    "data": {
+      "name": "Oxygen Airbrake"
+    }
+  },
+  "collectible5i18": {
+    "data": {
+      "name": "Spatial Control Jointer"
+    }
+  },
+  "collectible5i19": {
+    "data": {
+      "name": "Planter"
+    }
+  },
+  "collectible5i20": {
+    "data": {
+      "name": "Dithblade Fragment"
+    }
+  },
+  "collectible5i21": {
+    "data": {
+      "name": "Voltant Scanner"
+    }
+  },
+  "collectible5i22": {
+    "data": {
+      "name": "Book of Death and Rebirth"
+    }
+  },
+  "collectible5i23": {
+    "data": {
+      "name": "Solar Wind Converter"
+    }
+  },
+  "collectible5i24": {
+    "data": {
+      "name": "Savage Claw"
+    }
+  },
+  "collectible5i25": {
+    "data": {
+      "name": "Autoposturizer"
+    }
+  },
+  "collectible5i26": {
+    "data": {
+      "name": "Cooling Lava"
+    }
+  },
+  "collectible5i27": {
+    "data": {
+      "name": "Charred Crock"
+    }
+  },
+  "collectible5i28": {
+    "data": {
+      "name": "Lava Chestnut"
+    }
+  },
+  "collectible5i29": {
+    "data": {
+      "name": "Capricious Kettle"
+    }
+  },
+  "collectible5i30": {
+    "data": {
+      "name": "Zagyrin Cragstone"
+    }
+  },
+  "collectible5i31": {
+    "data": {
+      "name": "Jaharmum"
+    }
+  },
+  "collectible5i32": {
+    "data": {
+      "name": "Cliord Oil"
+    }
+  },
+  "collectible5i33": {
+    "data": {
+      "name": "Dark Lantern"
+    }
+  },
+  "collectible5i34": {
+    "data": {
+      "name": "Shooting Firefly"
+    }
+  },
+  "collectible5i35": {
+    "data": {
+      "name": "Kyatara Onion"
+    }
+  },
+  "collectible5i36": {
+    "data": {
+      "name": "Gyulali"
+    }
+  },
+  "collectible5i37": {
+    "data": {
+      "name": "Brambloo Shoot"
+    }
+  },
+  "collectible5i38": {
+    "data": {
+      "name": "Mottled Mums"
+    }
+  },
+  "collectible5i39": {
+    "data": {
+      "name": "Nightmare Pineapple"
+    }
+  },
+  "collectible5i40": {
+    "data": {
+      "name": "Pan-Analysis Chips"
+    }
+  },
+  "collectible5i41": {
+    "data": {
+      "name": "Sharpening Stone"
+    }
+  },
+  "collectible5i42": {
+    "data": {
+      "name": "Autiga Powder"
+    }
+  },
+  "collectible5i43": {
+    "data": {
+      "name": "Octopus Regulator"
+    }
+  },
+  "collectible5i44": {
+    "data": {
+      "name": "Belzadozebu Scallions"
+    }
+  },
+  "collectible5i45": {
+    "data": {
+      "name": "Gibney Jackal"
+    }
+  },
+  "collectible5i46": {
+    "data": {
+      "name": "Abyssal Cricket"
+    }
+  },
+  "collectible5i47": {
+    "data": {
+      "name": "Chrampoline"
+    }
+  },
+  "collectible5i48": {
+    "data": {
+      "name": "Gun Snake"
+    }
+  },
+  "collectible5i49": {
+    "data": {
+      "name": "Bogano Sleeping Bag"
+    }
+  },
+  "collectible5i50": {
+    "data": {
+      "name": "Bullet Fly"
+    }
+  },
+  "collectible5i51": {
+    "data": {
+      "name": "Stone Lens"
+    }
+  },
+  "collectible5i52": {
+    "data": {
+      "name": "Cetecegem Beetle"
+    }
+  },
+  "collectible5i53": {
+    "data": {
+      "name": "Charged Cayenne"
+    }
+  },
+  "collectible5i54": {
+    "data": {
+      "name": "Demon Boar"
+    }
+  },
+  "collectible5i55": {
+    "data": {
+      "name": "Prickly Cricket"
+    }
+  },
+  "collectible5i56": {
+    "data": {
+      "name": "Lava Fox"
+    }
+  },
+  "loc0": {
+    "data": {
+      "name": "Aaroy Plain"
+    }
+  },
+  "loc1": {
+    "data": {
+      "name": "Abandoned Bivouac"
+    }
+  },
+  "loc2": {
+    "data": {
+      "name": "Abyss Reservoir"
+    }
+  },
+  "loc3": {
+    "data": {
+      "name": "Adder Byroad"
+    }
+  },
+  "loc4": {
+    "data": {
+      "name": "Alexander Ridge"
+    }
+  },
+  "loc5": {
+    "data": {
+      "name": "Ancient Warscape"
+    }
+  },
+  "loc6": {
+    "data": {
+      "name": "Anvil Rock One"
+    }
+  },
+  "loc7": {
+    "data": {
+      "name": "Anvil Rock Two"
+    }
+  },
+  "loc8": {
+    "data": {
+      "name": "Anvil Sandplain"
+    }
+  },
+  "loc9": {
+    "data": {
+      "name": "Arc Rock"
+    }
+  },
+  "loc10": {
+    "data": {
+      "name": "Arendt Bridge"
+    }
+  },
+  "loc11": {
+    "data": {
+      "name": "Atop the Giant Ring"
+    }
+  },
+  "loc12": {
+    "data": {
+      "name": "Azure Lagoon"
+    }
+  },
+  "loc13": {
+    "data": {
+      "name": "Badr Basin"
+    }
+  },
+  "loc14": {
+    "data": {
+      "name": "Badr Strongbridge"
+    }
+  },
+  "loc15": {
+    "data": {
+      "name": "Badr Stronghold"
+    }
+  },
+  "loc16": {
+    "data": {
+      "name": "Balance Rock"
+    }
+  },
+  "loc17": {
+    "data": {
+      "name": "Bandit's Refuge"
+    }
+  },
+  "loc18": {
+    "data": {
+      "name": "Banshee Cave"
+    }
+  },
+  "loc19": {
+    "data": {
+      "name": "Barbarich Desert"
+    }
+  },
+  "loc20": {
+    "data": {
+      "name": "Beachside Trove"
+    }
+  },
+  "loc21": {
+    "data": {
+      "name": "Beasts' Lair"
+    }
+  },
+  "loc22": {
+    "data": {
+      "name": "Bedrock Hold"
+    }
+  },
+  "loc23": {
+    "data": {
+      "name": "Bedrock Hold Approach"
+    }
+  },
+  "loc24": {
+    "data": {
+      "name": "Beehive Rock"
+    }
+  },
+  "loc25": {
+    "data": {
+      "name": "Behemoth's Shadows"
+    }
+  },
+  "loc26": {
+    "data": {
+      "name": "Beneath O'rrh Sim Keep"
+    }
+  },
+  "loc27": {
+    "data": {
+      "name": "Bestial Utopia"
+    }
+  },
+  "loc28": {
+    "data": {
+      "name": "Biahno Grassland"
+    }
+  },
+  "loc29": {
+    "data": {
+      "name": "Biahno Hills"
+    }
+  },
+  "loc30": {
+    "data": {
+      "name": "Biahno Lake"
+    }
+  },
+  "loc31": {
+    "data": {
+      "name": "Biahno River"
+    }
+  },
+  "loc32": {
+    "data": {
+      "name": "Biahno Water-Purification Plant"
+    }
+  },
+  "loc33": {
+    "data": {
+      "name": "Bident Crossing"
+    }
+  },
+  "loc34": {
+    "data": {
+      "name": "Big Arch"
+    }
+  },
+  "loc35": {
+    "data": {
+      "name": "Black Bridge"
+    }
+  },
+  "loc36": {
+    "data": {
+      "name": "Bloodpond Basin"
+    }
+  },
+  "loc37": {
+    "data": {
+      "name": "Boxtrap Checkpoint"
+    }
+  },
+  "loc38": {
+    "data": {
+      "name": "Breakwater Narrow"
+    }
+  },
+  "loc39": {
+    "data": {
+      "name": "Canopied Nightwood"
+    }
+  },
+  "loc40": {
+    "data": {
+      "name": "Capital Wreckage"
+    }
+  },
+  "loc41": {
+    "data": {
+      "name": "Cascade Isle"
+    }
+  },
+  "loc42": {
+    "data": {
+      "name": "Castaway Cavern"
+    }
+  },
+  "loc43": {
+    "data": {
+      "name": "Cauldros Base Camp 1"
+    }
+  },
+  "loc44": {
+    "data": {
+      "name": "Cauldros Base Camp 2"
+    }
+  },
+  "loc45": {
+    "data": {
+      "name": "Cauldros Base Camp 3"
+    }
+  },
+  "loc46": {
+    "data": {
+      "name": "Cauldros Base Camp 4"
+    }
+  },
+  "loc47": {
+    "data": {
+      "name": "Cauldros Base Camp 5"
+    }
+  },
+  "loc48": {
+    "data": {
+      "name": "Cauldros Base Camp 6"
+    }
+  },
+  "loc49": {
+    "data": {
+      "name": "Cauldros Base Camp 7"
+    }
+  },
+  "loc50": {
+    "data": {
+      "name": "Cauldros Base Camp 8"
+    }
+  },
+  "loc51": {
+    "data": {
+      "name": "Cauldros Gate"
+    }
+  },
+  "loc52": {
+    "data": {
+      "name": "Cauldros Threshold"
+    }
+  },
+  "loc53": {
+    "data": {
+      "name": "Cavernous Abyss"
+    }
+  },
+  "loc54": {
+    "data": {
+      "name": "Celestial Ascent"
+    }
+  },
+  "loc55": {
+    "data": {
+      "name": "Celestial Cleave"
+    }
+  },
+  "loc56": {
+    "data": {
+      "name": "Central Ibra Ravine"
+    }
+  },
+  "loc57": {
+    "data": {
+      "name": "Cleansing Spring"
+    }
+  },
+  "loc58": {
+    "data": {
+      "name": "Cliffside Beach"
+    }
+  },
+  "loc59": {
+    "data": {
+      "name": "Cliffside Camp"
+    }
+  },
+  "loc60": {
+    "data": {
+      "name": "Coil Tree Cape"
+    }
+  },
+  "loc61": {
+    "data": {
+      "name": "Crater Oasis"
+    }
+  },
+  "loc62": {
+    "data": {
+      "name": "Cryptic Sign"
+    }
+  },
+  "loc63": {
+    "data": {
+      "name": "Dead Man's Gulch"
+    }
+  },
+  "loc64": {
+    "data": {
+      "name": "Dead Man's Ingress"
+    }
+  },
+  "loc65": {
+    "data": {
+      "name": "Decapotamon"
+    }
+  },
+  "loc66": {
+    "data": {
+      "name": "Decapotamon Vista"
+    }
+  },
+  "loc67": {
+    "data": {
+      "name": "Delusians North Summit"
+    }
+  },
+  "loc68": {
+    "data": {
+      "name": "Delusians South Summit"
+    }
+  },
+  "loc69": {
+    "data": {
+      "name": "Demon's Pocket"
+    }
+  },
+  "loc70": {
+    "data": {
+      "name": "Den of the Dead"
+    }
+  },
+  "loc71": {
+    "data": {
+      "name": "Devil's Colony"
+    }
+  },
+  "loc72": {
+    "data": {
+      "name": "Divine Roost"
+    }
+  },
+  "loc73": {
+    "data": {
+      "name": "Dodonga Caravan"
+    }
+  },
+  "loc74": {
+    "data": {
+      "name": "Dopang Caravan"
+    }
+  },
+  "loc75": {
+    "data": {
+      "name": "Dorian Caravan"
+    }
+  },
+  "loc76": {
+    "data": {
+      "name": "Dragonbone Promontory"
+    }
+  },
+  "loc77": {
+    "data": {
+      "name": "Drongo Caravan"
+    }
+  },
+  "loc78": {
+    "data": {
+      "name": "Drop Shaft"
+    }
+  },
+  "loc79": {
+    "data": {
+      "name": "Drowning Ring"
+    }
+  },
+  "loc80": {
+    "data": {
+      "name": "East Ciel Sandsea"
+    }
+  },
+  "loc81": {
+    "data": {
+      "name": "East Gate Plain"
+    }
+  },
+  "loc82": {
+    "data": {
+      "name": "East Ibra Ravine"
+    }
+  },
+  "loc83": {
+    "data": {
+      "name": "East Janpath Plain"
+    }
+  },
+  "loc84": {
+    "data": {
+      "name": "Eddie's Conquest"
+    }
+  },
+  "loc85": {
+    "data": {
+      "name": "Ejiri Promontory"
+    }
+  },
+  "loc86": {
+    "data": {
+      "name": "Elephant's Trunk"
+    }
+  },
+  "loc87": {
+    "data": {
+      "name": "Emerian Battlegrounds"
+    }
+  },
+  "loc88": {
+    "data": {
+      "name": "Ensanguined Font"
+    }
+  },
+  "loc89": {
+    "data": {
+      "name": "Ensconced Citadel"
+    }
+  },
+  "loc90": {
+    "data": {
+      "name": "Everwhelm Falls"
+    }
+  },
+  "loc91": {
+    "data": {
+      "name": "Fallshorn Isle"
+    }
+  },
+  "loc92": {
+    "data": {
+      "name": "Far Isle of Tzu'o"
+    }
+  },
+  "loc93": {
+    "data": {
+      "name": "Floating Reef"
+    }
+  },
+  "loc94": {
+    "data": {
+      "name": "FN Site 101"
+    }
+  },
+  "loc95": {
+    "data": {
+      "name": "FN Site 102"
+    }
+  },
+  "loc96": {
+    "data": {
+      "name": "FN Site 103"
+    }
+  },
+  "loc97": {
+    "data": {
+      "name": "FN Site 104"
+    }
+  },
+  "loc98": {
+    "data": {
+      "name": "FN Site 105"
+    }
+  },
+  "loc99": {
+    "data": {
+      "name": "FN Site 106"
+    }
+  },
+  "loc100": {
+    "data": {
+      "name": "FN Site 107"
+    }
+  },
+  "loc101": {
+    "data": {
+      "name": "FN Site 108"
+    }
+  },
+  "loc102": {
+    "data": {
+      "name": "FN Site 109"
+    }
+  },
+  "loc103": {
+    "data": {
+      "name": "FN Site 110"
+    }
+  },
+  "loc104": {
+    "data": {
+      "name": "FN Site 111"
+    }
+  },
+  "loc105": {
+    "data": {
+      "name": "FN Site 112"
+    }
+  },
+  "loc106": {
+    "data": {
+      "name": "FN Site 113"
+    }
+  },
+  "loc107": {
+    "data": {
+      "name": "FN Site 114"
+    }
+  },
+  "loc108": {
+    "data": {
+      "name": "FN Site 115"
+    }
+  },
+  "loc109": {
+    "data": {
+      "name": "FN Site 116"
+    }
+  },
+  "loc110": {
+    "data": {
+      "name": "FN Site 117"
+    }
+  },
+  "loc111": {
+    "data": {
+      "name": "FN Site 118"
+    }
+  },
+  "loc112": {
+    "data": {
+      "name": "FN Site 119"
+    }
+  },
+  "loc113": {
+    "data": {
+      "name": "FN Site 120"
+    }
+  },
+  "loc114": {
+    "data": {
+      "name": "FN Site 121"
+    }
+  },
+  "loc115": {
+    "data": {
+      "name": "FN Site 201"
+    }
+  },
+  "loc116": {
+    "data": {
+      "name": "FN Site 202"
+    }
+  },
+  "loc117": {
+    "data": {
+      "name": "FN Site 203"
+    }
+  },
+  "loc118": {
+    "data": {
+      "name": "FN Site 204"
+    }
+  },
+  "loc119": {
+    "data": {
+      "name": "FN Site 205"
+    }
+  },
+  "loc120": {
+    "data": {
+      "name": "FN Site 206"
+    }
+  },
+  "loc121": {
+    "data": {
+      "name": "FN Site 207"
+    }
+  },
+  "loc122": {
+    "data": {
+      "name": "FN Site 208"
+    }
+  },
+  "loc123": {
+    "data": {
+      "name": "FN Site 209"
+    }
+  },
+  "loc124": {
+    "data": {
+      "name": "FN Site 210"
+    }
+  },
+  "loc125": {
+    "data": {
+      "name": "FN Site 211"
+    }
+  },
+  "loc126": {
+    "data": {
+      "name": "FN Site 212"
+    }
+  },
+  "loc127": {
+    "data": {
+      "name": "FN Site 213"
+    }
+  },
+  "loc128": {
+    "data": {
+      "name": "FN Site 214"
+    }
+  },
+  "loc129": {
+    "data": {
+      "name": "FN Site 215"
+    }
+  },
+  "loc130": {
+    "data": {
+      "name": "FN Site 216"
+    }
+  },
+  "loc131": {
+    "data": {
+      "name": "FN Site 217"
+    }
+  },
+  "loc132": {
+    "data": {
+      "name": "FN Site 218"
+    }
+  },
+  "loc133": {
+    "data": {
+      "name": "FN Site 219"
+    }
+  },
+  "loc134": {
+    "data": {
+      "name": "FN Site 220"
+    }
+  },
+  "loc135": {
+    "data": {
+      "name": "FN Site 221"
+    }
+  },
+  "loc136": {
+    "data": {
+      "name": "FN Site 222"
+    }
+  },
+  "loc137": {
+    "data": {
+      "name": "FN Site 223"
+    }
+  },
+  "loc138": {
+    "data": {
+      "name": "FN Site 224"
+    }
+  },
+  "loc139": {
+    "data": {
+      "name": "FN Site 225"
+    }
+  },
+  "loc140": {
+    "data": {
+      "name": "FN Site 301"
+    }
+  },
+  "loc141": {
+    "data": {
+      "name": "FN Site 302"
+    }
+  },
+  "loc142": {
+    "data": {
+      "name": "FN Site 303"
+    }
+  },
+  "loc143": {
+    "data": {
+      "name": "FN Site 304"
+    }
+  },
+  "loc144": {
+    "data": {
+      "name": "FN Site 305"
+    }
+  },
+  "loc145": {
+    "data": {
+      "name": "FN Site 306"
+    }
+  },
+  "loc146": {
+    "data": {
+      "name": "FN Site 307"
+    }
+  },
+  "loc147": {
+    "data": {
+      "name": "FN Site 308"
+    }
+  },
+  "loc148": {
+    "data": {
+      "name": "FN Site 309"
+    }
+  },
+  "loc149": {
+    "data": {
+      "name": "FN Site 310"
+    }
+  },
+  "loc150": {
+    "data": {
+      "name": "FN Site 311"
+    }
+  },
+  "loc151": {
+    "data": {
+      "name": "FN Site 312"
+    }
+  },
+  "loc152": {
+    "data": {
+      "name": "FN Site 313"
+    }
+  },
+  "loc153": {
+    "data": {
+      "name": "FN Site 314"
+    }
+  },
+  "loc154": {
+    "data": {
+      "name": "FN Site 315"
+    }
+  },
+  "loc155": {
+    "data": {
+      "name": "FN Site 316"
+    }
+  },
+  "loc156": {
+    "data": {
+      "name": "FN Site 317"
+    }
+  },
+  "loc157": {
+    "data": {
+      "name": "FN Site 318"
+    }
+  },
+  "loc158": {
+    "data": {
+      "name": "FN Site 319"
+    }
+  },
+  "loc159": {
+    "data": {
+      "name": "FN Site 320"
+    }
+  },
+  "loc160": {
+    "data": {
+      "name": "FN Site 321"
+    }
+  },
+  "loc161": {
+    "data": {
+      "name": "FN Site 322"
+    }
+  },
+  "loc162": {
+    "data": {
+      "name": "FN Site 401"
+    }
+  },
+  "loc163": {
+    "data": {
+      "name": "FN Site 402"
+    }
+  },
+  "loc164": {
+    "data": {
+      "name": "FN Site 403"
+    }
+  },
+  "loc165": {
+    "data": {
+      "name": "FN Site 404"
+    }
+  },
+  "loc166": {
+    "data": {
+      "name": "FN Site 405"
+    }
+  },
+  "loc167": {
+    "data": {
+      "name": "FN Site 406"
+    }
+  },
+  "loc168": {
+    "data": {
+      "name": "FN Site 407"
+    }
+  },
+  "loc169": {
+    "data": {
+      "name": "FN Site 408"
+    }
+  },
+  "loc170": {
+    "data": {
+      "name": "FN Site 409"
+    }
+  },
+  "loc171": {
+    "data": {
+      "name": "FN Site 410"
+    }
+  },
+  "loc172": {
+    "data": {
+      "name": "FN Site 411"
+    }
+  },
+  "loc173": {
+    "data": {
+      "name": "FN Site 412"
+    }
+  },
+  "loc174": {
+    "data": {
+      "name": "FN Site 413"
+    }
+  },
+  "loc175": {
+    "data": {
+      "name": "FN Site 414"
+    }
+  },
+  "loc176": {
+    "data": {
+      "name": "FN Site 415"
+    }
+  },
+  "loc177": {
+    "data": {
+      "name": "FN Site 416"
+    }
+  },
+  "loc178": {
+    "data": {
+      "name": "FN Site 417"
+    }
+  },
+  "loc179": {
+    "data": {
+      "name": "FN Site 418"
+    }
+  },
+  "loc180": {
+    "data": {
+      "name": "FN Site 419"
+    }
+  },
+  "loc181": {
+    "data": {
+      "name": "FN Site 420"
+    }
+  },
+  "loc182": {
+    "data": {
+      "name": "FN Site 501"
+    }
+  },
+  "loc183": {
+    "data": {
+      "name": "FN Site 502"
+    }
+  },
+  "loc184": {
+    "data": {
+      "name": "FN Site 503"
+    }
+  },
+  "loc185": {
+    "data": {
+      "name": "FN Site 504"
+    }
+  },
+  "loc186": {
+    "data": {
+      "name": "FN Site 505"
+    }
+  },
+  "loc187": {
+    "data": {
+      "name": "FN Site 506"
+    }
+  },
+  "loc188": {
+    "data": {
+      "name": "FN Site 507"
+    }
+  },
+  "loc189": {
+    "data": {
+      "name": "FN Site 508"
+    }
+  },
+  "loc190": {
+    "data": {
+      "name": "FN Site 509"
+    }
+  },
+  "loc191": {
+    "data": {
+      "name": "FN Site 510"
+    }
+  },
+  "loc192": {
+    "data": {
+      "name": "FN Site 511"
+    }
+  },
+  "loc193": {
+    "data": {
+      "name": "FN Site 512"
+    }
+  },
+  "loc194": {
+    "data": {
+      "name": "FN Site 513"
+    }
+  },
+  "loc195": {
+    "data": {
+      "name": "FN Site 514"
+    }
+  },
+  "loc196": {
+    "data": {
+      "name": "FN Site 515"
+    }
+  },
+  "loc197": {
+    "data": {
+      "name": "FN Site 516"
+    }
+  },
+  "loc198": {
+    "data": {
+      "name": "Forgotten Mining Frigate 1"
+    }
+  },
+  "loc199": {
+    "data": {
+      "name": "Forgotten Mining Frigate 10"
+    }
+  },
+  "loc200": {
+    "data": {
+      "name": "Forgotten Mining Frigate 11"
+    }
+  },
+  "loc201": {
+    "data": {
+      "name": "Forgotten Mining Frigate 12"
+    }
+  },
+  "loc202": {
+    "data": {
+      "name": "Forgotten Mining Frigate 2"
+    }
+  },
+  "loc203": {
+    "data": {
+      "name": "Forgotten Mining Frigate 3"
+    }
+  },
+  "loc204": {
+    "data": {
+      "name": "Forgotten Mining Frigate 4"
+    }
+  },
+  "loc205": {
+    "data": {
+      "name": "Forgotten Mining Frigate 5"
+    }
+  },
+  "loc206": {
+    "data": {
+      "name": "Forgotten Mining Frigate 6"
+    }
+  },
+  "loc207": {
+    "data": {
+      "name": "Forgotten Mining Frigate 7"
+    }
+  },
+  "loc208": {
+    "data": {
+      "name": "Forgotten Mining Frigate 8"
+    }
+  },
+  "loc209": {
+    "data": {
+      "name": "Forgotten Mining Frigate 9"
+    }
+  },
+  "loc210": {
+    "data": {
+      "name": "Fukai Pass"
+    }
+  },
+  "loc211": {
+    "data": {
+      "name": "G'nahan Villa"
+    }
+  },
+  "loc212": {
+    "data": {
+      "name": "Ganglion Antropolis"
+    }
+  },
+  "loc213": {
+    "data": {
+      "name": "Ganglion Weapons Hangar"
+    }
+  },
+  "loc214": {
+    "data": {
+      "name": "Garden Spring"
+    }
+  },
+  "loc215": {
+    "data": {
+      "name": "Gehenna Span"
+    }
+  },
+  "loc216": {
+    "data": {
+      "name": "Goblin's Narrow"
+    }
+  },
+  "loc217": {
+    "data": {
+      "name": "Great Nail"
+    }
+  },
+  "loc218": {
+    "data": {
+      "name": "Great Trident Crossing"
+    }
+  },
+  "loc219": {
+    "data": {
+      "name": "Great Washington Isle"
+    }
+  },
+  "loc220": {
+    "data": {
+      "name": "Greater Gemini Bridge"
+    }
+  },
+  "loc221": {
+    "data": {
+      "name": "Green Threshold"
+    }
+  },
+  "loc222": {
+    "data": {
+      "name": "Grieving Plains"
+    }
+  },
+  "loc223": {
+    "data": {
+      "name": "Hardheart Canyon"
+    }
+  },
+  "loc224": {
+    "data": {
+      "name": "Headwater Cavern"
+    }
+  },
+  "loc225": {
+    "data": {
+      "name": "Headwater Cliff"
+    }
+  },
+  "loc226": {
+    "data": {
+      "name": "Headwater Summit"
+    }
+  },
+  "loc227": {
+    "data": {
+      "name": "Hilal Meadow"
+    }
+  },
+  "loc228": {
+    "data": {
+      "name": "Hilal Stronghold"
+    }
+  },
+  "loc229": {
+    "data": {
+      "name": "Humdrum Peaks"
+    }
+  },
+  "loc230": {
+    "data": {
+      "name": "Idyll Beach"
+    }
+  },
+  "loc231": {
+    "data": {
+      "name": "Infernal Ledges"
+    }
+  },
+  "loc232": {
+    "data": {
+      "name": "Island 1"
+    }
+  },
+  "loc233": {
+    "data": {
+      "name": "Island 10"
+    }
+  },
+  "loc234": {
+    "data": {
+      "name": "Island 2"
+    }
+  },
+  "loc235": {
+    "data": {
+      "name": "Island 3"
+    }
+  },
+  "loc236": {
+    "data": {
+      "name": "Island 4"
+    }
+  },
+  "loc237": {
+    "data": {
+      "name": "Island 5"
+    }
+  },
+  "loc238": {
+    "data": {
+      "name": "Island 6"
+    }
+  },
+  "loc239": {
+    "data": {
+      "name": "Island 7"
+    }
+  },
+  "loc240": {
+    "data": {
+      "name": "Island 8"
+    }
+  },
+  "loc241": {
+    "data": {
+      "name": "Island 9"
+    }
+  },
+  "loc242": {
+    "data": {
+      "name": "Jair Fortress"
+    }
+  },
+  "loc243": {
+    "data": {
+      "name": "Janpath Lake"
+    }
+  },
+  "loc244": {
+    "data": {
+      "name": "Jasper Incline"
+    }
+  },
+  "loc245": {
+    "data": {
+      "name": "Keegan Ridge"
+    }
+  },
+  "loc246": {
+    "data": {
+      "name": "King's Falls"
+    }
+  },
+  "loc247": {
+    "data": {
+      "name": "Kintrees"
+    }
+  },
+  "loc248": {
+    "data": {
+      "name": "Kitsune Stronghold"
+    }
+  },
+  "loc249": {
+    "data": {
+      "name": "Kw'arah Cloister"
+    }
+  },
+  "loc250": {
+    "data": {
+      "name": "Kw'arah Villa"
+    }
+  },
+  "loc251": {
+    "data": {
+      "name": "La Mancha"
+    }
+  },
+  "loc252": {
+    "data": {
+      "name": "Lake Basel"
+    }
+  },
+  "loc253": {
+    "data": {
+      "name": "Lake Ciel"
+    }
+  },
+  "loc254": {
+    "data": {
+      "name": "Lakeview Stronghold"
+    }
+  },
+  "loc255": {
+    "data": {
+      "name": "Leaning Ring"
+    }
+  },
+  "loc256": {
+    "data": {
+      "name": "Lesser Anvil"
+    }
+  },
+  "loc257": {
+    "data": {
+      "name": "Lesser Gemini Bridge"
+    }
+  },
+  "loc258": {
+    "data": {
+      "name": "Lifehold Core"
+    }
+  },
+  "loc259": {
+    "data": {
+      "name": "Lotus Keep Building Site"
+    }
+  },
+  "loc260": {
+    "data": {
+      "name": "Lower Delusian Mountains"
+    }
+  },
+  "loc261": {
+    "data": {
+      "name": "M'gando Gorge"
+    }
+  },
+  "loc262": {
+    "data": {
+      "name": "M'gando Mineral Spring"
+    }
+  },
+  "loc263": {
+    "data": {
+      "name": "M'gando Volcanic Crater"
+    }
+  },
+  "loc264": {
+    "data": {
+      "name": "Mesa Fortress"
+    }
+  },
+  "loc265": {
+    "data": {
+      "name": "Middle Hushflood"
+    }
+  },
+  "loc266": {
+    "data": {
+      "name": "Milligan Supply Base"
+    }
+  },
+  "loc267": {
+    "data": {
+      "name": "Millstone Ridge"
+    }
+  },
+  "loc268": {
+    "data": {
+      "name": "Molten Hollow"
+    }
+  },
+  "loc269": {
+    "data": {
+      "name": "Mount Edge Peak"
+    }
+  },
+  "loc270": {
+    "data": {
+      "name": "Mount M'gando"
+    }
+  },
+  "loc271": {
+    "data": {
+      "name": "Narcissus Tree"
+    }
+  },
+  "loc272": {
+    "data": {
+      "name": "Needle Rock Sandsea"
+    }
+  },
+  "loc273": {
+    "data": {
+      "name": "Noctilucent Sphere"
+    }
+  },
+  "loc274": {
+    "data": {
+      "name": "Noctilucent Sphere Interior"
+    }
+  },
+  "loc275": {
+    "data": {
+      "name": "Noctilum Base Camp 1"
+    }
+  },
+  "loc276": {
+    "data": {
+      "name": "Noctilum Base Camp 2"
+    }
+  },
+  "loc277": {
+    "data": {
+      "name": "Noctilum Base Camp 3"
+    }
+  },
+  "loc278": {
+    "data": {
+      "name": "Noctilum Base Camp 4"
+    }
+  },
+  "loc279": {
+    "data": {
+      "name": "Noctilum Base Camp 5"
+    }
+  },
+  "loc280": {
+    "data": {
+      "name": "Noctilum Base Camp 6"
+    }
+  },
+  "loc281": {
+    "data": {
+      "name": "Noctilum Base Camp 7"
+    }
+  },
+  "loc282": {
+    "data": {
+      "name": "Nopon Braidbridge"
+    }
+  },
+  "loc283": {
+    "data": {
+      "name": "Nopon Highroad"
+    }
+  },
+  "loc284": {
+    "data": {
+      "name": "North Ant's Nest"
+    }
+  },
+  "loc285": {
+    "data": {
+      "name": "North Ciel Sandsea"
+    }
+  },
+  "loc286": {
+    "data": {
+      "name": "North Cinderdunes"
+    }
+  },
+  "loc287": {
+    "data": {
+      "name": "North Coast"
+    }
+  },
+  "loc288": {
+    "data": {
+      "name": "North Hardheart Canyon"
+    }
+  },
+  "loc289": {
+    "data": {
+      "name": "North Janpath Plain"
+    }
+  },
+  "loc290": {
+    "data": {
+      "name": "North Silent Sandsea"
+    }
+  },
+  "loc291": {
+    "data": {
+      "name": "Northern Searoad"
+    }
+  },
+  "loc292": {
+    "data": {
+      "name": "Northpointe Beach"
+    }
+  },
+  "loc293": {
+    "data": {
+      "name": "Northpointe Cove"
+    }
+  },
+  "loc294": {
+    "data": {
+      "name": "O'rrh Sim Capital Remains"
+    }
+  },
+  "loc295": {
+    "data": {
+      "name": "O'rrh Sim Castle Ruins"
+    }
+  },
+  "loc296": {
+    "data": {
+      "name": "O'rrh Sim Castle Ruins Area"
+    }
+  },
+  "loc297": {
+    "data": {
+      "name": "O'rrh Sim Gate"
+    }
+  },
+  "loc298": {
+    "data": {
+      "name": "O'rrh Sim Keep"
+    }
+  },
+  "loc299": {
+    "data": {
+      "name": "O'rrh Sim Watchtowers"
+    }
+  },
+  "loc300": {
+    "data": {
+      "name": "Oblivia Base Camp 1"
+    }
+  },
+  "loc301": {
+    "data": {
+      "name": "Oblivia Base Camp 2"
+    }
+  },
+  "loc302": {
+    "data": {
+      "name": "Oblivia Base Camp 3"
+    }
+  },
+  "loc303": {
+    "data": {
+      "name": "Oblivia Base Camp 4"
+    }
+  },
+  "loc304": {
+    "data": {
+      "name": "Oblivia Base Camp 5"
+    }
+  },
+  "loc305": {
+    "data": {
+      "name": "Oblivia Base Camp 6"
+    }
+  },
+  "loc306": {
+    "data": {
+      "name": "Oblivia Base Camp 7"
+    }
+  },
+  "loc307": {
+    "data": {
+      "name": "Oblivia Base Camp 8"
+    }
+  },
+  "loc308": {
+    "data": {
+      "name": "Oblivia Ingress"
+    }
+  },
+  "loc309": {
+    "data": {
+      "name": "Old Ceremonial Hollow"
+    }
+  },
+  "loc310": {
+    "data": {
+      "name": "Old Dragontail Tree"
+    }
+  },
+  "loc311": {
+    "data": {
+      "name": "Orochi's Belly"
+    }
+  },
+  "loc312": {
+    "data": {
+      "name": "Plundered Ruin"
+    }
+  },
+  "loc313": {
+    "data": {
+      "name": "Potter's Rock"
+    }
+  },
+  "loc314": {
+    "data": {
+      "name": "Primeval Meadow"
+    }
+  },
+  "loc315": {
+    "data": {
+      "name": "Primordia Base Camp 1"
+    }
+  },
+  "loc316": {
+    "data": {
+      "name": "Primordia Base Camp 2"
+    }
+  },
+  "loc317": {
+    "data": {
+      "name": "Primordia Base Camp 3"
+    }
+  },
+  "loc318": {
+    "data": {
+      "name": "Primordia Base Camp 4"
+    }
+  },
+  "loc319": {
+    "data": {
+      "name": "Primordia Base Camp 5"
+    }
+  },
+  "loc320": {
+    "data": {
+      "name": "Primordia Base Camp 6"
+    }
+  },
+  "loc321": {
+    "data": {
+      "name": "Primordia Base Camp 7"
+    }
+  },
+  "loc322": {
+    "data": {
+      "name": "Primordia Base Camp 8"
+    }
+  },
+  "loc323": {
+    "data": {
+      "name": "Qing Long Glade"
+    }
+  },
+  "loc324": {
+    "data": {
+      "name": "Qing Long Glade BC"
+    }
+  },
+  "loc325": {
+    "data": {
+      "name": "Quay Hollows"
+    }
+  },
+  "loc326": {
+    "data": {
+      "name": "Redsnake Pass"
+    }
+  },
+  "loc327": {
+    "data": {
+      "name": "Riva Isle"
+    }
+  },
+  "loc328": {
+    "data": {
+      "name": "Rock Cavern"
+    }
+  },
+  "loc329": {
+    "data": {
+      "name": "Rockmole's Burrow"
+    }
+  },
+  "loc330": {
+    "data": {
+      "name": "Roof Rock"
+    }
+  },
+  "loc331": {
+    "data": {
+      "name": "Rooney Cavern"
+    }
+  },
+  "loc332": {
+    "data": {
+      "name": "Ruined City of O'rrh Sim"
+    }
+  },
+  "loc333": {
+    "data": {
+      "name": "Ruins on the Butte"
+    }
+  },
+  "loc334": {
+    "data": {
+      "name": "Ruins on the Sandbank"
+    }
+  },
+  "loc335": {
+    "data": {
+      "name": "Rust Lake"
+    }
+  },
+  "loc336": {
+    "data": {
+      "name": "Rustpool Banks"
+    }
+  },
+  "loc337": {
+    "data": {
+      "name": "Samuel Incline"
+    }
+  },
+  "loc338": {
+    "data": {
+      "name": "Sandsprint Cavity"
+    }
+  },
+  "loc339": {
+    "data": {
+      "name": "Sandsprint Slope"
+    }
+  },
+  "loc340": {
+    "data": {
+      "name": "Sapphire Carpet"
+    }
+  },
+  "loc341": {
+    "data": {
+      "name": "Sapphire Table"
+    }
+  },
+  "loc342": {
+    "data": {
+      "name": "Sato Headwater"
+    }
+  },
+  "loc343": {
+    "data": {
+      "name": "Sayram Lake"
+    }
+  },
+  "loc344": {
+    "data": {
+      "name": "Sayram Northeast Plain"
+    }
+  },
+  "loc345": {
+    "data": {
+      "name": "Scabland Fortress"
+    }
+  },
+  "loc346": {
+    "data": {
+      "name": "Scholes Battlegrounds"
+    }
+  },
+  "loc347": {
+    "data": {
+      "name": "Sea Whisper Valley"
+    }
+  },
+  "loc348": {
+    "data": {
+      "name": "Seabird's Beak"
+    }
+  },
+  "loc349": {
+    "data": {
+      "name": "Seabound Coil Tree"
+    }
+  },
+  "loc350": {
+    "data": {
+      "name": "Seaswept Base"
+    }
+  },
+  "loc351": {
+    "data": {
+      "name": "Seaswept Ridge"
+    }
+  },
+  "loc352": {
+    "data": {
+      "name": "Seaswept Rise"
+    }
+  },
+  "loc353": {
+    "data": {
+      "name": "Secluded Lava Lake"
+    }
+  },
+  "loc354": {
+    "data": {
+      "name": "Sentinel's Nest"
+    }
+  },
+  "loc355": {
+    "data": {
+      "name": "Serpentine Pass"
+    }
+  },
+  "loc356": {
+    "data": {
+      "name": "Shadow Rise"
+    }
+  },
+  "loc357": {
+    "data": {
+      "name": "Shark's Jaws"
+    }
+  },
+  "loc358": {
+    "data": {
+      "name": "Shivering Sands"
+    }
+  },
+  "loc359": {
+    "data": {
+      "name": "Sickle Rock Rise"
+    }
+  },
+  "loc360": {
+    "data": {
+      "name": "Silent Mire"
+    }
+  },
+  "loc361": {
+    "data": {
+      "name": "Skybound Coil Tree"
+    }
+  },
+  "loc362": {
+    "data": {
+      "name": "Skygazer's Atrium"
+    }
+  },
+  "loc363": {
+    "data": {
+      "name": "Slavebird Isle"
+    }
+  },
+  "loc364": {
+    "data": {
+      "name": "South Ant's Nest"
+    }
+  },
+  "loc365": {
+    "data": {
+      "name": "South Ciel Sandsea"
+    }
+  },
+  "loc366": {
+    "data": {
+      "name": "South Cinderdunes"
+    }
+  },
+  "loc367": {
+    "data": {
+      "name": "South Coast"
+    }
+  },
+  "loc368": {
+    "data": {
+      "name": "South Hardheart Canyon"
+    }
+  },
+  "loc369": {
+    "data": {
+      "name": "South Janpath Plain"
+    }
+  },
+  "loc370": {
+    "data": {
+      "name": "South Silent Sandsea"
+    }
+  },
+  "loc371": {
+    "data": {
+      "name": "Southern Searoad"
+    }
+  },
+  "loc372": {
+    "data": {
+      "name": "Starfall Basin"
+    }
+  },
+  "loc373": {
+    "data": {
+      "name": "Stickstone Rise"
+    }
+  },
+  "loc374": {
+    "data": {
+      "name": "Stonelattice Cavern"
+    }
+  },
+  "loc375": {
+    "data": {
+      "name": "Stoyanov Trail"
+    }
+  },
+  "loc376": {
+    "data": {
+      "name": "Suncatch Ravine"
+    }
+  },
+  "loc377": {
+    "data": {
+      "name": "Sunlit Spring"
+    }
+  },
+  "loc378": {
+    "data": {
+      "name": "Sunset Falls"
+    }
+  },
+  "loc379": {
+    "data": {
+      "name": "Sylvalum Base Camp 1"
+    }
+  },
+  "loc380": {
+    "data": {
+      "name": "Sylvalum Base Camp 2"
+    }
+  },
+  "loc381": {
+    "data": {
+      "name": "Sylvalum Base Camp 3"
+    }
+  },
+  "loc382": {
+    "data": {
+      "name": "Sylvalum Base Camp 4"
+    }
+  },
+  "loc383": {
+    "data": {
+      "name": "Sylvalum Base Camp 5"
+    }
+  },
+  "loc384": {
+    "data": {
+      "name": "Sylvalum Base Camp 6"
+    }
+  },
+  "loc385": {
+    "data": {
+      "name": "Sylvalum Base Camp 7"
+    }
+  },
+  "loc386": {
+    "data": {
+      "name": "Sylvalum Base Camp 8"
+    }
+  },
+  "loc387": {
+    "data": {
+      "name": "Sylvalum Searoad"
+    }
+  },
+  "loc388": {
+    "data": {
+      "name": "T'phnom Shelf"
+    }
+  },
+  "loc389": {
+    "data": {
+      "name": "Tallpack Peak"
+    }
+  },
+  "loc390": {
+    "data": {
+      "name": "Talon Rock Prominence"
+    }
+  },
+  "loc391": {
+    "data": {
+      "name": "Talon Rock Second Terrane"
+    }
+  },
+  "loc392": {
+    "data": {
+      "name": "Talon Rock Summit"
+    }
+  },
+  "loc393": {
+    "data": {
+      "name": "Talon Rock Third Terrane"
+    }
+  },
+  "loc394": {
+    "data": {
+      "name": "Tengu's Playground"
+    }
+  },
+  "loc395": {
+    "data": {
+      "name": "Ternion Fork"
+    }
+  },
+  "loc396": {
+    "data": {
+      "name": "Titan's Table"
+    }
+  },
+  "loc397": {
+    "data": {
+      "name": "Tripod Rock"
+    }
+  },
+  "loc398": {
+    "data": {
+      "name": "Turtle Nest"
+    }
+  },
+  "loc399": {
+    "data": {
+      "name": "Twin Arches"
+    }
+  },
+  "loc400": {
+    "data": {
+      "name": "Twin Hammers"
+    }
+  },
+  "loc401": {
+    "data": {
+      "name": "Unicorn Rock"
+    }
+  },
+  "loc402": {
+    "data": {
+      "name": "Upper Hush Flood"
+    }
+  },
+  "loc403": {
+    "data": {
+      "name": "Victory Rock"
+    }
+  },
+  "loc404": {
+    "data": {
+      "name": "Vitriol Cesspool"
+    }
+  },
+  "loc405": {
+    "data": {
+      "name": "Waterway Tangle"
+    }
+  },
+  "loc406": {
+    "data": {
+      "name": "Weeping Whitewood"
+    }
+  },
+  "loc407": {
+    "data": {
+      "name": "West Ciel Sandsea"
+    }
+  },
+  "loc408": {
+    "data": {
+      "name": "West Cinderdunes"
+    }
+  },
+  "loc409": {
+    "data": {
+      "name": "West Gate Plain"
+    }
+  },
+  "loc410": {
+    "data": {
+      "name": "West Ibra Ravine"
+    }
+  },
+  "loc411": {
+    "data": {
+      "name": "West Janpath Plain"
+    }
+  },
+  "loc412": {
+    "data": {
+      "name": "Whale's Gullet"
+    }
+  },
+  "loc413": {
+    "data": {
+      "name": "Whale's Nostril"
+    }
+  },
+  "loc414": {
+    "data": {
+      "name": "Whale's Weeper"
+    }
+  },
+  "loc415": {
+    "data": {
+      "name": "White Phosphor Lake"
+    }
+  },
+  "loc416": {
+    "data": {
+      "name": "Wildcat Fortress"
+    }
+  },
+  "loc417": {
+    "data": {
+      "name": "Wonderment Bluff"
+    }
+  },
+  "loc418": {
+    "data": {
+      "name": "Wrothian Stronghold"
+    }
+  },
+  "loc419": {
+    "data": {
+      "name": "Xanadu Overlook"
+    }
+  },
+  "loc420": {
+    "data": {
+      "name": "Yagami's Vista"
+    }
+  },
+  "loc421": {
+    "data": {
+      "name": "Yawning Giant"
+    }
+  },
+  "collectibleset1i1": {
+    "data": {
+      "name": "Primordia Southwest Area"
+    }
+  },
+  "collectibleset1i2": {
+    "data": {
+      "name": "Primordia Northwest Area"
+    }
+  },
+  "collectibleset1i3": {
+    "data": {
+      "name": "Primordia Middle Area"
+    }
+  },
+  "collectibleset1i4": {
+    "data": {
+      "name": "Primordia Talon Rock Mountain Area"
+    }
+  },
+  "collectibleset1i5": {
+    "data": {
+      "name": "Primordia North Area"
+    }
+  },
+  "collectibleset1i6": {
+    "data": {
+      "name": "Primordia Southeast Area"
+    }
+  },
+  "collectibleset1i7": {
+    "data": {
+      "name": "Primordia Northeast Area"
+    }
+  },
+  "collectibleset1i8": {
+    "data": {
+      "name": "Primordia North Shore Area"
+    }
+  },
+  "collectibleset1i9": {
+    "data": {
+      "name": "Primordia Cave Areas"
+    }
+  },
+  "collectibleset2i1": {
+    "data": {
+      "name": "Noctilum South Forest Area"
+    }
+  },
+  "collectibleset2i2": {
+    "data": {
+      "name": "Noctilum North Forest Area"
+    }
+  },
+  "collectibleset2i3": {
+    "data": {
+      "name": "Noctilum Lake Area"
+    }
+  },
+  "collectibleset2i4": {
+    "data": {
+      "name": "Noctilum Falls Area"
+    }
+  },
+  "collectibleset2i5": {
+    "data": {
+      "name": "Noctilum Rocky Mountain Area"
+    }
+  },
+  "collectibleset2i6": {
+    "data": {
+      "name": "Noctilum Ravine Area"
+    }
+  },
+  "collectibleset2i7": {
+    "data": {
+      "name": "Noctilum Stream Area"
+    }
+  },
+  "collectibleset2i8": {
+    "data": {
+      "name": "Noctilum Mountain Trail Area"
+    }
+  },
+  "collectibleset2i9": {
+    "data": {
+      "name": "Noctilum Cave Areas"
+    }
+  },
+  "collectibleset3i1": {
+    "data": {
+      "name": "Oblivia Crevasse Area"
+    }
+  },
+  "collectibleset3i2": {
+    "data": {
+      "name": "Oblivia Northern Coast Area"
+    }
+  },
+  "collectibleset3i3": {
+    "data": {
+      "name": "Oblivia Stream Area"
+    }
+  },
+  "collectibleset3i4": {
+    "data": {
+      "name": "Oblivia Southern Coast Area"
+    }
+  },
+  "collectibleset3i5": {
+    "data": {
+      "name": "Oblivia Mountain Area"
+    }
+  },
+  "collectibleset3i6": {
+    "data": {
+      "name": "Oblivia Lake Area"
+    }
+  },
+  "collectibleset3i7": {
+    "data": {
+      "name": "Oblivia Cove Area"
+    }
+  },
+  "collectibleset3i8": {
+    "data": {
+      "name": "Oblivia Floating Reef Area"
+    }
+  },
+  "collectibleset3i9": {
+    "data": {
+      "name": "Oblivia Cave Areas"
+    }
+  },
+  "collectibleset4i1": {
+    "data": {
+      "name": "Sylvalum Southern Coast Area"
+    }
+  },
+  "collectibleset4i2": {
+    "data": {
+      "name": "Sylvalum Southeast-East Coast Area"
+    }
+  },
+  "collectibleset4i3": {
+    "data": {
+      "name": "Sylvalum Western Sands Area"
+    }
+  },
+  "collectibleset4i4": {
+    "data": {
+      "name": "Sylvalum Lake Area"
+    }
+  },
+  "collectibleset4i5": {
+    "data": {
+      "name": "Sylvalum Northern Sands Area"
+    }
+  },
+  "collectibleset4i6": {
+    "data": {
+      "name": "Sylvalum Great Sand Hill Area"
+    }
+  },
+  "collectibleset4i7": {
+    "data": {
+      "name": "Sylvalum Delusian Mountains Area"
+    }
+  },
+  "collectibleset4i8": {
+    "data": {
+      "name": "Sylvalum Upper Delusian Mountains Area"
+    }
+  },
+  "collectibleset4i9": {
+    "data": {
+      "name": "Sylvalum Cave Areas"
+    }
+  },
+  "collectibleset5i1": {
+    "data": {
+      "name": "Cauldros Volcano Area"
+    }
+  },
+  "collectibleset5i2": {
+    "data": {
+      "name": "Cauldros Kw'arah Cloister Area"
+    }
+  },
+  "collectibleset5i3": {
+    "data": {
+      "name": "Cauldros Castle Area"
+    }
+  },
+  "collectibleset5i4": {
+    "data": {
+      "name": "Cauldros Distant Area"
+    }
+  },
+  "collectibleset5i5": {
+    "data": {
+      "name": "Cauldros Magma Area"
+    }
+  },
+  "collectibleset5i6": {
+    "data": {
+      "name": "Cauldros Solitary Island Area"
+    }
+  },
+  "collectibleset5i7": {
+    "data": {
+      "name": "Cauldros White Phosphorus Area"
+    }
+  },
+  "collectibleset5i8": {
+    "data": {
+      "name": "Cauldros Old Battleground Area"
+    }
+  },
+  "collectibleset5i9": {
+    "data": {
+      "name": "Cauldros Cave Areas"
+    }
+  },
+  "region1": {
+    "data": {
+      "name": "Primordia"
+    }
+  },
+  "region2": {
+    "data": {
+      "name": "Noctilum"
+    }
+  },
+  "region3": {
+    "data": {
+      "name": "Oblivia"
+    }
+  },
+  "region4": {
+    "data": {
+      "name": "Sylvalum"
+    }
+  },
+  "region5": {
+    "data": {
+      "name": "Cauldros"
+    }
+  },
+  "map0": {
+    "data": {
+      "name": "Mira"
+    }
+  },
+  "map1": {
+    "data": {
+      "name": "NLA"
+    }
+  },
+  "map2": {
+    "data": {
+      "name": "Ma-non Ship"
+    }
+  },
+  "game0": {
+    "data": {
+      "name": "Xenoblade Chronicles X"
+    }
+  },
+  "siteGraph0": {
+    "data": {
+      "name": "Default (Jahed's Layout)"
+    }
+  },
+  "probe1": {
+    "data": {
+      "name": "Basic Probe"
+    }
+  },
+  "probe2": {
+    "data": {
+      "name": "Mining Probe G1"
+    }
+  },
+  "probe3": {
+    "data": {
+      "name": "Mining Probe G2"
+    }
+  },
+  "probe4": {
+    "data": {
+      "name": "Mining Probe G3"
+    }
+  },
+  "probe5": {
+    "data": {
+      "name": "Mining Probe G4"
+    }
+  },
+  "probe6": {
+    "data": {
+      "name": "Mining Probe G5"
+    }
+  },
+  "probe7": {
+    "data": {
+      "name": "Mining Probe G6"
+    }
+  },
+  "probe8": {
+    "data": {
+      "name": "Mining Probe G7"
+    }
+  },
+  "probe9": {
+    "data": {
+      "name": "Mining Probe G8"
+    }
+  },
+  "probe10": {
+    "data": {
+      "name": "Mining Probe G9"
+    }
+  },
+  "probe11": {
+    "data": {
+      "name": "Mining Probe G10"
+    }
+  },
+  "probe12": {
+    "data": {
+      "name": "Research Probe G1"
+    }
+  },
+  "probe13": {
+    "data": {
+      "name": "Research Probe G2"
+    }
+  },
+  "probe14": {
+    "data": {
+      "name": "Research Probe G3"
+    }
+  },
+  "probe15": {
+    "data": {
+      "name": "Research Probe G4"
+    }
+  },
+  "probe16": {
+    "data": {
+      "name": "Research Probe G5"
+    }
+  },
+  "probe17": {
+    "data": {
+      "name": "Research Probe G6"
+    }
+  },
+  "probe18": {
+    "data": {
+      "name": "Booster Probe G1"
+    }
+  },
+  "probe19": {
+    "data": {
+      "name": "Booster Probe G2"
+    }
+  },
+  "probe20": {
+    "data": {
+      "name": "Duplicator Probe"
+    }
+  },
+  "probe21": {
+    "data": {
+      "name": "Storage Probe"
+    }
+  },
+  "probe22": {
+    "data": {
+      "name": "Any Combat Probe"
+    }
+  },
+  "etgZ8iwO": {
+    "data": {
+      "name": "Agito, the Golden"
+    }
+  },
+  "eZVAABnX": {
+    "data": {
+      "name": "Agnes, the Divine-Scaled"
+    }
+  },
+  "eK1rJoRq": {
+    "data": {
+      "name": "Ahama, the Covetous"
+    }
+  },
+  "e4i0wARc": {
+    "data": {
+      "name": "Ahama's Seidr"
+    }
+  },
+  "e7FiP5hl": {
+    "data": {
+      "name": "Air Support Galdr"
+    }
+  },
+  "eROt5uDG": {
+    "data": {
+      "name": "Albin, the Wicked Meddler"
+    }
+  },
+  "ekE4eIsS": {
+    "data": {
+      "name": "Ald, the Extravagant"
+    }
+  },
+  "e0YZzWaZ": {
+    "data": {
+      "name": "Alexei, the Jade"
+    }
+  },
+  "enNs2fXv": {
+    "data": {
+      "name": "Alfombra, the Transcendent"
+    }
+  },
+  "euESYAgS": {
+    "data": {
+      "name": "Alithios, the Indignant"
+    }
+  },
+  "eSJSsg9g": {
+    "data": {
+      "name": "Andrea, the Famished Hunter"
+    }
+  },
+  "e9PZwMfd": {
+    "data": {
+      "name": "Andrei, the Cunning"
+    }
+  },
+  "ehmJQepr": {
+    "data": {
+      "name": "Angelita, the Blade Bouquet"
+    }
+  },
+  "erxV0vQB": {
+    "data": {
+      "name": "Anselm, the Triumphant"
+    }
+  },
+  "eZpQjXm5": {
+    "data": {
+      "name": "Antara, the Water Diviner"
+    }
+  },
+  "ex6FqTYV": {
+    "data": {
+      "name": "Archibolt, the Revolutionary"
+    }
+  },
+  "exApO4qv": {
+    "data": {
+      "name": "Aria, the Zauberflote"
+    }
+  },
+  "eeIypT3A": {
+    "data": {
+      "name": "Armed Destroyer Galdr"
+    }
+  },
+  "eD2yU0iM": {
+    "data": {
+      "name": "Armed Engineer Galdr"
+    }
+  },
+  "eQRZnMAM": {
+    "data": {
+      "name": "Armed Recon Galdr"
+    }
+  },
+  "edmUZDfB": {
+    "data": {
+      "name": "Armored Cruiser Seidr"
+    }
+  },
+  "e8Humq5K": {
+    "data": {
+      "name": "Asana, the Azura Star"
+    }
+  },
+  "e3dCVGOT": {
+    "data": {
+      "name": "Atreides, the Distinguished"
+    }
+  },
+  "e9h0xkHW": {
+    "data": {
+      "name": "Baabara, the Evangelical"
+    }
+  },
+  "em7onEiW": {
+    "data": {
+      "name": "Badul, the One-Eyed"
+    }
+  },
+  "eU3q2pvr": {
+    "data": {
+      "name": "Badul's Seidr"
+    }
+  },
+  "eYEx3S7x": {
+    "data": {
+      "name": "Balduino, the Wicked-Eyed"
+    }
+  },
+  "e4HLoSBA": {
+    "data": {
+      "name": "Barnabas, the Despot"
+    }
+  },
+  "e8vkLeC1": {
+    "data": {
+      "name": "Bartley, the Conflagration"
+    }
+  },
+  "eAu7hnD5": {
+    "data": {
+      "name": "Behemoth, the Netherdweller"
+    }
+  },
+  "e1MQnIkj": {
+    "data": {
+      "name": "Belenguer, the Gunhammer"
+    }
+  },
+  "ekXomSfk": {
+    "data": {
+      "name": "Berserker Marnuck"
+    }
+  },
+  "evScgLV2": {
+    "data": {
+      "name": "Berthold, the Blue-Eyed"
+    }
+  },
+  "eqQbBbT4": {
+    "data": {
+      "name": "Bertrand, the Gorge Scourge"
+    }
+  },
+  "ef6SGtxH": {
+    "data": {
+      "name": "Blaudolch, the Chalcedony"
+    }
+  },
+  "eMRfJj9j": {
+    "data": {
+      "name": "Bogdan, the Dense"
+    }
+  },
+  "ezdfgzch": {
+    "data": {
+      "name": "Bohdan, the Mistral"
+    }
+  },
+  "e1I5R1p3": {
+    "data": {
+      "name": "Brandys, the Spectral Light"
+    }
+  },
+  "eAPZpcdl": {
+    "data": {
+      "name": "Bressole, the Fugitive"
+    }
+  },
+  "exH0J6H4": {
+    "data": {
+      "name": "Buchwald, the Guardian"
+    }
+  },
+  "ezGi2egz": {
+    "data": {
+      "name": "Caesar, the Hundred-Eyed"
+    }
+  },
+  "eObdOOcz": {
+    "data": {
+      "name": "Calore, the Lava Walker"
+    }
+  },
+  "eXIB25hC": {
+    "data": {
+      "name": "Camille, the Immortal"
+    }
+  },
+  "eT2nd2kJ": {
+    "data": {
+      "name": "Camus, the Treasured"
+    }
+  },
+  "eLNXWq6V": {
+    "data": {
+      "name": "Candelario, the Bronze"
+    }
+  },
+  "e3Euv0VJ": {
+    "data": {
+      "name": "Caranau, the Water Drake"
+    }
+  },
+  "eeNh781b": {
+    "data": {
+      "name": "Casper, the Unhealthy Eater"
+    }
+  },
+  "e0eQDNdq": {
+    "data": {
+      "name": "Celedonio, the Battle-Tested"
+    }
+  },
+  "eua0lz9t": {
+    "data": {
+      "name": "Celestin, the Spring Storm"
+    }
+  },
+  "eKVDbOU3": {
+    "data": {
+      "name": "Chantai, the Insect Maiden"
+    }
+  },
+  "epKxtpkf": {
+    "data": {
+      "name": "Chantai's Galdr"
+    }
+  },
+  "exYxPQap": {
+    "data": {
+      "name": "Claire, the Sheltered"
+    }
+  },
+  "eXaMJtRr": {
+    "data": {
+      "name": "Clara, the Pure White"
+    }
+  },
+  "e5xG5ohc": {
+    "data": {
+      "name": "Clemente, the Iron Meteor"
+    }
+  },
+  "epnUTGVS": {
+    "data": {
+      "name": "Climati, the Chilling Wind"
+    }
+  },
+  "erj1fAUV": {
+    "data": {
+      "name": "Coil, the Never-Ending"
+    }
+  },
+  "e7YRAZ2r": {
+    "data": {
+      "name": "Dadaan, the Strongest Prone"
+    }
+  },
+  "eObRtWmr": {
+    "data": {
+      "name": "Daemon, the Undertaker"
+    }
+  },
+  "eIF6cxaZ": {
+    "data": {
+      "name": "Damaged Zig"
+    }
+  },
+  "eDJsXphU": {
+    "data": {
+      "name": "Daril, the Eradicator"
+    }
+  },
+  "elGi6omr": {
+    "data": {
+      "name": "Daril's Qmoeva"
+    }
+  },
+  "eViHc5Li": {
+    "data": {
+      "name": "Dawid, the Destrier"
+    }
+  },
+  "eDDyukl6": {
+    "data": {
+      "name": "Demetrio, the Tempestuous"
+    }
+  },
+  "edkrUj71": {
+    "data": {
+      "name": "Desdemona, the Subterraanean"
+    }
+  },
+  "enYHfeA5": {
+    "data": {
+      "name": "Dieter, the Epicure"
+    }
+  },
+  "eDKx0nwW": {
+    "data": {
+      "name": "Diogenes, the Covetous"
+    }
+  },
+  "egvBHMDM": {
+    "data": {
+      "name": "Dobromila, the Alluring"
+    }
+  },
+  "e0kPbEBE": {
+    "data": {
+      "name": "Drake, the Waypost"
+    }
+  },
+  "eYej0FK4": {
+    "data": {
+      "name": "Draken, the Drifting Cloud"
+    }
+  },
+  "eDXfXvrn": {
+    "data": {
+      "name": "Du-rha, the Imprisoned"
+    }
+  },
+  "esl8eYii": {
+    "data": {
+      "name": "Dui, the Invaluable"
+    }
+  },
+  "e4xa1mim": {
+    "data": {
+      "name": "Duran, the Draconian"
+    }
+  },
+  "eqTNQF3o": {
+    "data": {
+      "name": "Duran's Galdr"
+    }
+  },
+  "en84RSs9": {
+    "data": {
+      "name": "Durvin, the Perceptive"
+    }
+  },
+  "eaA3U7MW": {
+    "data": {
+      "name": "Eckart, the Indestructible"
+    }
+  },
+  "eTeUrtT7": {
+    "data": {
+      "name": "Eddy, the Electric Heat"
+    }
+  },
+  "eWQ5CRpy": {
+    "data": {
+      "name": "Edgardo, the Carefree"
+    }
+  },
+  "edGAmV2l": {
+    "data": {
+      "name": "Eisen, the Ebon Rock"
+    }
+  },
+  "etOMI2Gy": {
+    "data": {
+      "name": "Elaine, the Lunar Eclipse"
+    }
+  },
+  "eHkyIY1F": {
+    "data": {
+      "name": "Elena, the Infernal"
+    }
+  },
+  "e6v70t3k": {
+    "data": {
+      "name": "Eliane, the Unmoved"
+    }
+  },
+  "eMQTrTLW": {
+    "data": {
+      "name": "Elvira, the Talondrake"
+    }
+  },
+  "eVmyL05H": {
+    "data": {
+      "name": "Enhanced Attack Range Zig"
+    }
+  },
+  "euuRjcxL": {
+    "data": {
+      "name": "Enhanced Attack Seidr"
+    }
+  },
+  "eY0N3ksZ": {
+    "data": {
+      "name": "Enhanced Defense Seidr"
+    }
+  },
+  "e0ukVGsS": {
+    "data": {
+      "name": "Enhanced Search Zig"
+    }
+  },
+  "e75t368x": {
+    "data": {
+      "name": "Enhanced Support Zig"
+    }
+  },
+  "eJxPhBKm": {
+    "data": {
+      "name": "Ernest, the Comptemplative"
+    }
+  },
+  "e2AGKjRq": {
+    "data": {
+      "name": "Etutanne, the Bloodthirsty"
+    }
+  },
+  "eM8AC1UO": {
+    "data": {
+      "name": "Eustachio, the Eccentric"
+    }
+  },
+  "eHwM2EDq": {
+    "data": {
+      "name": "Eutropio, the Sea Rumble"
+    }
+  },
+  "eP61iGKv": {
+    "data": {
+      "name": "Experimental Compact Zig"
+    }
+  },
+  "eJ1bAbEi": {
+    "data": {
+      "name": "Experimental Composite Qmoeva"
+    }
+  },
+  "ef6HbkjL": {
+    "data": {
+      "name": "Experimental Flight Shrad"
+    }
+  },
+  "eosWnTfE": {
+    "data": {
+      "name": "Experimental Second-Gen Zig"
+    }
+  },
+  "e9D3FEE0": {
+    "data": {
+      "name": "Falchion, the Vibrant"
+    }
+  },
+  "eslKa90d": {
+    "data": {
+      "name": "Feld, the Indigo-Clad"
+    }
+  },
+  "ebpF8IC1": {
+    "data": {
+      "name": "Feliciano, the All-Seeing"
+    }
+  },
+  "e41seEBe": {
+    "data": {
+      "name": "Ferdinand, the Fortuitus"
+    }
+  },
+  "ey2XY06P": {
+    "data": {
+      "name": "Fernando, the Immovable"
+    }
+  },
+  "eKmIlgnH": {
+    "data": {
+      "name": "Florence, the Hell Maggot"
+    }
+  },
+  "e9xg57mL": {
+    "data": {
+      "name": "Frajeel, the Purgatorial"
+    }
+  },
+  "ejNS0KUu": {
+    "data": {
+      "name": "Frontline Medic Quo"
+    }
+  },
+  "etAeJKFK": {
+    "data": {
+      "name": "Frontline Surveillance Zig"
+    }
+  },
+  "ejrMYaUD": {
+    "data": {
+      "name": "Froste, the Courteous"
+    }
+  },
+  "e7YlIaQ6": {
+    "data": {
+      "name": "Ga-uhl, the Precept-Keeper"
+    }
+  },
+  "ezBfSySk": {
+    "data": {
+      "name": "Gadaf, the Pulverizer"
+    }
+  },
+  "e3LphDx6": {
+    "data": {
+      "name": "Gadaf's Qmoeva"
+    }
+  },
+  "eAZPnzTQ": {
+    "data": {
+      "name": "Gerhardt, the Lone and Proud"
+    }
+  },
+  "eaebLbms": {
+    "data": {
+      "name": "Germaine, the Treasure Keeper"
+    }
+  },
+  "eYT1WSP0": {
+    "data": {
+      "name": "Gesserith, the Wileworm"
+    }
+  },
+  "e9r5EKsb": {
+    "data": {
+      "name": "Gi-zho, the Iron Deity"
+    }
+  },
+  "eC7UySgj": {
+    "data": {
+      "name": "Giraffin, the Old Hand"
+    }
+  },
+  "e5wQzLeG": {
+    "data": {
+      "name": "Go-rha, the Guardian Deity"
+    }
+  },
+  "e1bxD7r5": {
+    "data": {
+      "name": "Goliath, the Stronghold"
+    }
+  },
+  "ehHJjUg2": {
+    "data": {
+      "name": "Gotthard, the Intimidating"
+    }
+  },
+  "eWIdRvhw": {
+    "data": {
+      "name": "Gradivus, the Headless Emperor"
+    }
+  },
+  "e3cGerkb": {
+    "data": {
+      "name": "Griffus, the Tartarean"
+    }
+  },
+  "e9Wx0TA7": {
+    "data": {
+      "name": "Gugli, the Relentless"
+    }
+  },
+  "ebPwmXtC": {
+    "data": {
+      "name": "Hartmut, the Calamity"
+    }
+  },
+  "epgKSDfZ": {
+    "data": {
+      "name": "Hayreddin, the Territorial"
+    }
+  },
+  "ecb3fovB": {
+    "data": {
+      "name": "Heidi, the Lively"
+    }
+  },
+  "e1vJTVJQ": {
+    "data": {
+      "name": "Hephaestus, the Absconder"
+    }
+  },
+  "eLP88fIc": {
+    "data": {
+      "name": "High-Output Pugilith"
+    }
+  },
+  "ergosalP": {
+    "data": {
+      "name": "Hiro, the Priceless"
+    }
+  },
+  "ejsr9oK0": {
+    "data": {
+      "name": "Ignit, the Ultimate Chaos"
+    }
+  },
+  "e81uLIMn": {
+    "data": {
+      "name": "Ilithios, the Enlightened"
+    }
+  },
+  "ediZPIEJ": {
+    "data": {
+      "name": "Infantry Support Qmoeva"
+    }
+  },
+  "e7V9v4Pa": {
+    "data": {
+      "name": "Intermediate Arsenal Qmoeva"
+    }
+  },
+  "eoj6M0mv": {
+    "data": {
+      "name": "Izgnanie, the Smoldering"
+    }
+  },
+  "eKnKbD20": {
+    "data": {
+      "name": "Jarosch, the Sensational"
+    }
+  },
+  "eTiobayu": {
+    "data": {
+      "name": "Ji-ett, the Thunderclap"
+    }
+  },
+  "ez6WSTcC": {
+    "data": {
+      "name": "Jia Mian, the Beloved"
+    }
+  },
+  "eqMU7a0Q": {
+    "data": {
+      "name": "Jindriska, the Serene"
+    }
+  },
+  "eP9XVV3k": {
+    "data": {
+      "name": "Joker, the Unknowable"
+    }
+  },
+  "e2uhRxMj": {
+    "data": {
+      "name": "Katerina, the Cliffhanger"
+    }
+  },
+  "eRisrFWr": {
+    "data": {
+      "name": "Kringe, the Hunting Arrow"
+    }
+  },
+  "e6jLGr6c": {
+    "data": {
+      "name": "Lambert, the Divine Wind"
+    }
+  },
+  "eEz2rUst": {
+    "data": {
+      "name": "Langul, the Alien Payload"
+    }
+  },
+  "e9Ri6KDW": {
+    "data": {
+      "name": "Lask, the Unscrupulous"
+    }
+  },
+  "eGL2Bq96": {
+    "data": {
+      "name": "Latis, the Bristle-Scaled"
+    }
+  },
+  "eRdteZWf": {
+    "data": {
+      "name": "Laurencio, the Fog Bow"
+    }
+  },
+  "ecPb6QDd": {
+    "data": {
+      "name": "Leandro, the Sneering"
+    }
+  },
+  "e33aSudW": {
+    "data": {
+      "name": "Legato, the Sky Watcher"
+    }
+  },
+  "ev8slpfa": {
+    "data": {
+      "name": "Leva'el, the Terminus"
+    }
+  },
+  "et0GKuHZ": {
+    "data": {
+      "name": "Libra, the Long-Lived"
+    }
+  },
+  "eGFQVqvW": {
+    "data": {
+      "name": "Lockhart, the Killer of Hope"
+    }
+  },
+  "eQLokgSG": {
+    "data": {
+      "name": "Logistical Support Quo"
+    }
+  },
+  "ebt8FOWe": {
+    "data": {
+      "name": "Lomoth, the Beast-Eater"
+    }
+  },
+  "eXFCgol2": {
+    "data": {
+      "name": "Luciel, the Eternal"
+    }
+  },
+  "eMNc9Yi5": {
+    "data": {
+      "name": "Ludvik, the Picky Eater"
+    }
+  },
+  "ePYTHeTD": {
+    "data": {
+      "name": "Lugalbanda, the Wanderer-King"
+    }
+  },
+  "eBXEzf8F": {
+    "data": {
+      "name": "Luxaar's Xern"
+    }
+  },
+  "ePnx9QDc": {
+    "data": {
+      "name": "Lyla, the Lustrous"
+    }
+  },
+  "eKVtq2RV": {
+    "data": {
+      "name": "Lyla's Galdr"
+    }
+  },
+  "e1pCimqp": {
+    "data": {
+      "name": "Man'an, the Water Whisperer"
+    }
+  },
+  "e2GJ6HWV": {
+    "data": {
+      "name": "Manuelita, the Affectionate"
+    }
+  },
+  "e4JLy1TF": {
+    "data": {
+      "name": "Megatonne, the Hell Express"
+    }
+  },
+  "ewZgkW2B": {
+    "data": {
+      "name": "Melanya, the Sound Sleeper"
+    }
+  },
+  "eTDgAowk": {
+    "data": {
+      "name": "Mesgen, the Fairweathered"
+    }
+  },
+  "etSU74VR": {
+    "data": {
+      "name": "Mikulas, the Keystone"
+    }
+  },
+  "e7OWJ5a0": {
+    "data": {
+      "name": "Muruse, the Opulent"
+    }
+  },
+  "e31NGObe": {
+    "data": {
+      "name": "Na-mulk, the Rebellious"
+    }
+  },
+  "eY5sZTDp": {
+    "data": {
+      "name": "Nahum, the Red Hare"
+    }
+  },
+  "e7iVvEF7": {
+    "data": {
+      "name": "Nardacyon, the Shadowless"
+    }
+  },
+  "eihgSaFj": {
+    "data": {
+      "name": "Natt, the Inestimable"
+    }
+  },
+  "eAZ0DViP": {
+    "data": {
+      "name": "Necro, the Cavelord"
+    }
+  },
+  "enOcYhtZ": {
+    "data": {
+      "name": "Night Combat Puge"
+    }
+  },
+  "ehwEGFBp": {
+    "data": {
+      "name": "No-dhor, the Shadowcaster"
+    }
+  },
+  "eRSO6Ze1": {
+    "data": {
+      "name": "Nu-rhor, the Dark Deity"
+    }
+  },
+  "eY0P5CoV": {
+    "data": {
+      "name": "Oc-serv, the Ancient"
+    }
+  },
+  "eG9iTU5u": {
+    "data": {
+      "name": "Olegario, the Iron-Helmed"
+    }
+  },
+  "e405b2YD": {
+    "data": {
+      "name": "Oskar, the Summer Squall"
+    }
+  },
+  "ewAerc8P": {
+    "data": {
+      "name": "Pelicollo, the Panzer"
+    }
+  },
+  "eqlRd6EH": {
+    "data": {
+      "name": "Pharsis, the Everqueen"
+    }
+  },
+  "eoK3gR82": {
+    "data": {
+      "name": "Piernus, the Scorcher"
+    }
+  },
+  "exPt3YBG": {
+    "data": {
+      "name": "Pizelle, the Purple Lightning"
+    }
+  },
+  "edNX4TsH": {
+    "data": {
+      "name": "Planetes, the Torrential"
+    }
+  },
+  "eTKvmOQo": {
+    "data": {
+      "name": "Polaris, the Firmamental"
+    }
+  },
+  "e9P0kEp4": {
+    "data": {
+      "name": "Poppy, the Pyromaniac"
+    }
+  },
+  "eXwUNJR2": {
+    "data": {
+      "name": "Prinsipe, the Ravenous"
+    }
+  },
+  "eToDk1Bm": {
+    "data": {
+      "name": "Prototype Puge"
+    }
+  },
+  "eZSChVbI": {
+    "data": {
+      "name": "Pyotr, the Shepherd"
+    }
+  },
+  "eZUvn1To": {
+    "data": {
+      "name": "Radovan, the Sky Baron"
+    }
+  },
+  "e8DVsgmW": {
+    "data": {
+      "name": "Raider Pugilith"
+    }
+  },
+  "eHCcJvQw": {
+    "data": {
+      "name": "Rajidi, the Cumuliform"
+    }
+  },
+  "eY0uyXNf": {
+    "data": {
+      "name": "Ramus, the Supersonic"
+    }
+  },
+  "eXk9r8vP": {
+    "data": {
+      "name": "Ridill, the Arrogant"
+    }
+  },
+  "enkPTyQM": {
+    "data": {
+      "name": "Ro-darm, the Demon Claw"
+    }
+  },
+  "eQds7gwi": {
+    "data": {
+      "name": "Roderick, the Fleet-Footed"
+    }
+  },
+  "eI4vY7I6": {
+    "data": {
+      "name": "Rodriguez, the Twin-Tusked"
+    }
+  },
+  "eH1R2E5f": {
+    "data": {
+      "name": "Roimi, the Affluent"
+    }
+  },
+  "eMx5bzbx": {
+    "data": {
+      "name": "Rolf, the Sonorous"
+    }
+  },
+  "ew1SHvVt": {
+    "data": {
+      "name": "Ruth, the Shunner of Light"
+    }
+  },
+  "ewKfhOnJ": {
+    "data": {
+      "name": "Sacrum, the Noctilucent"
+    }
+  },
+  "erbDHQPX": {
+    "data": {
+      "name": "Sadar, the Unhinged"
+    }
+  },
+  "efY0dkH0": {
+    "data": {
+      "name": "Sadar's Qmoeva"
+    }
+  },
+  "eggnK0Ap": {
+    "data": {
+      "name": "Sapara, the Laconic"
+    }
+  },
+  "eNnePZmc": {
+    "data": {
+      "name": "Sarcosuchus, the Iron-Eater"
+    }
+  },
+  "eCxEDC2y": {
+    "data": {
+      "name": "Schneider, the Cliffpercher"
+    }
+  },
+  "eghJC7HZ": {
+    "data": {
+      "name": "Sector Security Shrad"
+    }
+  },
+  "eSTn9LsE": {
+    "data": {
+      "name": "Seti, the Light of Stars"
+    }
+  },
+  "erAr5dOd": {
+    "data": {
+      "name": "Sharnaak, the Technician"
+    }
+  },
+  "eRStg3I8": {
+    "data": {
+      "name": "Sharnaak's Seidr"
+    }
+  },
+  "eJO6sjmI": {
+    "data": {
+      "name": "Shatskikh, the Flash"
+    }
+  },
+  "e3tL8WzO": {
+    "data": {
+      "name": "Sheldon, the Dentally Challenged"
+    }
+  },
+  "eM6VHCHk": {
+    "data": {
+      "name": "Shinhwa, the Sagacious"
+    }
+  },
+  "eVf5mFdd": {
+    "data": {
+      "name": "Shuravas, the Enraged"
+    }
+  },
+  "eLL5mWzl": {
+    "data": {
+      "name": "Si-el, the Vacuous"
+    }
+  },
+  "eqBU1Chk": {
+    "data": {
+      "name": "Silvestre, the Morning Light"
+    }
+  },
+  "ebQkhhSK": {
+    "data": {
+      "name": "Sirene, the Lost"
+    }
+  },
+  "euo2fuHI": {
+    "data": {
+      "name": "Spaniel, the Obedient"
+    }
+  },
+  "e7oWaEv1": {
+    "data": {
+      "name": "Squallo, the Sand-Mirer"
+    }
+  },
+  "ea0zwhWd": {
+    "data": {
+      "name": "Stola, the Champion"
+    }
+  },
+  "eKlVsEFo": {
+    "data": {
+      "name": "Stola, the Unchained"
+    }
+  },
+  "eKtGB1uW": {
+    "data": {
+      "name": "Support Trainee Qmoeva"
+    }
+  },
+  "eHvkVL5I": {
+    "data": {
+      "name": "Sven, the Sturdy"
+    }
+  },
+  "e1gt4vKn": {
+    "data": {
+      "name": "Sviatoslav, the Reproachful"
+    }
+  },
+  "eVrTPo8Q": {
+    "data": {
+      "name": "Telethia, the Endbringer"
+    }
+  },
+  "emKl8xTm": {
+    "data": {
+      "name": "Terenty, the Blademaster"
+    }
+  },
+  "eqISImlP": {
+    "data": {
+      "name": "Thaddaeus, the Ultramafic"
+    }
+  },
+  "eRY2hIK5": {
+    "data": {
+      "name": "Tico, the Precious"
+    }
+  },
+  "e8v1VKQJ": {
+    "data": {
+      "name": "Tormenta, the Scarlet-Clad"
+    }
+  },
+  "ehGFxdIV": {
+    "data": {
+      "name": "Tourteau, the Delectable"
+    }
+  },
+  "ekbUWWIJ": {
+    "data": {
+      "name": "Trueno, the Cataclysm"
+    }
+  },
+  "e9H8SgP2": {
+    "data": {
+      "name": "Truppe, the Ceaseless Dark"
+    }
+  },
+  "eEke3fxm": {
+    "data": {
+      "name": "Uluora, the Burgeoning"
+    }
+  },
+  "e14tEziV": {
+    "data": {
+      "name": "Unlimited Output Zig"
+    }
+  },
+  "elDAmgyY": {
+    "data": {
+      "name": "Urdu's Qmoeva"
+    }
+  },
+  "ernqzHA8": {
+    "data": {
+      "name": "Vainamo, the Bellower"
+    }
+  },
+  "eq7UwiOs": {
+    "data": {
+      "name": "Valeriano, the Rolling Thunder"
+    }
+  },
+  "en7RjnO0": {
+    "data": {
+      "name": "Valyrion, the Iron Cleaver"
+    }
+  },
+  "euZGxTrc": {
+    "data": {
+      "name": "Vegetal, the Heatcrux"
+    }
+  },
+  "e5UWCR4R": {
+    "data": {
+      "name": "Vendura, the Spellbinder"
+    }
+  },
+  "eQj4B0j3": {
+    "data": {
+      "name": "Vendura's Galdr"
+    }
+  },
+  "eKj7RdqK": {
+    "data": {
+      "name": "Vilem, the Gold-Scaled"
+    }
+  },
+  "eFHIEJmu": {
+    "data": {
+      "name": "Vittorio, the Battle-Scarred"
+    }
+  },
+  "esTBOyhT": {
+    "data": {
+      "name": "Vorpall, the Sickle-Fanged"
+    }
+  },
+  "ew26lFck": {
+    "data": {
+      "name": "Vortice, the Deific Blast"
+    }
+  },
+  "e1MeOmaU": {
+    "data": {
+      "name": "Wenzel, the Inebriated"
+    }
+  },
+  "eAS901ZG": {
+    "data": {
+      "name": "WR512: Urdu"
+    }
+  },
+  "eJTr3qOa": {
+    "data": {
+      "name": "Xair, the Cerulean Walker"
+    }
+  },
+  "e6941nAx": {
+    "data": {
+      "name": "Ya-rhat, the Thundercloud"
+    }
+  },
+  "eQacmJWT": {
+    "data": {
+      "name": "Yama, the Obliviator"
+    }
+  },
+  "eNrdozSI": {
+    "data": {
+      "name": "Yelena, the Sequestered"
+    }
+  },
+  "eeqBxODc": {
+    "data": {
+      "name": "Yessenia, the Husky-Voiced"
+    }
+  },
+  "e7j9EHuB": {
+    "data": {
+      "name": "Yuiro, the Luxuriant"
+    }
+  },
+  "ediN8eEc": {
+    "data": {
+      "name": "Yune, the Ambusher"
+    }
+  },
+  "eMy5hWDZ": {
+    "data": {
+      "name": "Zdenka, the Raucous"
+    }
+  },
+  "eXKBLNSn": {
+    "data": {
+      "name": "Zohan, the thunderbolt"
+    }
+  },
+  "eCs0P6WT": {
+    "data": {
+      "name": "Zorn, the Wanderer"
+    }
+  },
+  "pr0": {
+    "data": {
+      "name": "Arc Sand Ore"
+    }
+  },
+  "pr1": {
+    "data": {
+      "name": "Aurorite"
+    }
+  },
+  "pr11": {
+    "data": {
+      "name": "Boiled-Egg Ore"
+    }
+  },
+  "pr14": {
+    "data": {
+      "name": "Bonjelium"
+    }
+  },
+  "pr6": {
+    "data": {
+      "name": "Cimmerian Cinnabar"
+    }
+  },
+  "pr3": {
+    "data": {
+      "name": "Dawnstone"
+    }
+  },
+  "pr9": {
+    "data": {
+      "name": "Enduron Lead"
+    }
+  },
+  "pr7": {
+    "data": {
+      "name": "Everfreeze Ore"
+    }
+  },
+  "pr2": {
+    "data": {
+      "name": "Foucaultium"
+    }
+  },
+  "pr8": {
+    "data": {
+      "name": "Infernium"
+    }
+  },
+  "pr4": {
+    "data": {
+      "name": "Lionbone Bort"
+    }
+  },
+  "pr13": {
+    "data": {
+      "name": "Marine Rutile"
+    }
+  },
+  "pr10": {
+    "data": {
+      "name": "Ouroboros Crystal"
+    }
+  },
+  "pr12": {
+    "data": {
+      "name": "Parhelion Platinum"
+    }
+  },
+  "pr5": {
+    "data": {
+      "name": "White Cometite"
+    }
+  },
+  "mission112-3": {
+    "data": {
+      "name": "Snipe Hunt"
+    }
+  },
+  "mission126-8": {
+    "data": {
+      "name": "The Repair Job"
+    }
+  },
+  "mission142-6": {
+    "data": {
+      "name": "A Day in the Life"
+    }
+  },
+  "mission144-8": {
+    "data": {
+      "name": "Haywire!"
+    }
+  },
+  "mission146-10": {
+    "data": {
+      "name": "Forbidden Love"
+    }
+  },
+  "mission153-8": {
+    "data": {
+      "name": "Cinicula Assault"
+    }
+  },
+  "mission154-9": {
+    "data": {
+      "name": "Renewed Will"
+    }
+  },
+  "mission162-8": {
+    "data": {
+      "name": "The Lurker"
+    }
+  },
+  "mission173-10": {
+    "data": {
+      "name": "City Saviors"
+    }
+  },
+  "mission19-1-8": {
+    "data": {
+      "name": "The Good Thief"
+    }
+  },
+  "mission110-3-7": {
+    "data": {
+      "name": "Close Encounters"
+    }
+  },
+  "mission110-1-9": {
+    "data": {
+      "name": "Nagi's Time"
+    }
+  },
+  "mission1101-11": {
+    "data": {
+      "name": "Welcome Back, Conner"
+    }
+  },
+  "mission1110-11": {
+    "data": {
+      "name": "Here Come the Brides"
+    }
+  },
+  "mission1113-14": {
+    "data": {
+      "name": "An Ancient Legend"
+    }
+  },
+  "mission112-2-10": {
+    "data": {
+      "name": "We Were Soldiers"
+    }
+  },
+  "mission1131-14": {
+    "data": {
+      "name": "Nine Lives"
+    }
+  },
+  "mission1142-16": {
+    "data": {
+      "name": "A Dubious Operation"
+    }
+  },
+  "mission115-3-12": {
+    "data": {
+      "name": "Muimui's Meltdown"
+    }
+  },
+  "mission115-1-14": {
+    "data": {
+      "name": "Training Day"
+    }
+  },
+  "mission1150-15": {
+    "data": {
+      "name": "A False Hope"
+    }
+  },
+  "mission116-2-14": {
+    "data": {
+      "name": "Stop, Thief!"
+    }
+  },
+  "mission241-5": {
+    "data": {
+      "name": "A Fateful Choice"
+    }
+  },
+  "mission242-6": {
+    "data": {
+      "name": "The Nopon Heir"
+    }
+  },
+  "mission244-8": {
+    "data": {
+      "name": "House Call"
+    }
+  },
+  "mission246-10": {
+    "data": {
+      "name": "Prospective Partners"
+    }
+  },
+  "mission249-13": {
+    "data": {
+      "name": "Frontier Spirit"
+    }
+  },
+  "mission254-9": {
+    "data": {
+      "name": "The Art of War"
+    }
+  },
+  "mission256-11": {
+    "data": {
+      "name": "Rescue at the Ensconced Citadel"
+    }
+  },
+  "mission257-12": {
+    "data": {
+      "name": "My Dream"
+    }
+  },
+  "mission2510-15": {
+    "data": {
+      "name": "The Voltant Visionary"
+    }
+  },
+  "mission263-9": {
+    "data": {
+      "name": "Circle of Life"
+    }
+  },
+  "mission267-13": {
+    "data": {
+      "name": "No-show Nen'celeg"
+    }
+  },
+  "mission2610-16": {
+    "data": {
+      "name": "Dodonga Caravan"
+    }
+  },
+  "mission273-10": {
+    "data": {
+      "name": "Manhunt"
+    }
+  },
+  "mission278-15": {
+    "data": {
+      "name": "Close Comrades"
+    }
+  },
+  "mission2713-20": {
+    "data": {
+      "name": "A Proper Chopper"
+    }
+  },
+  "mission283-11": {
+    "data": {
+      "name": "Dead Men Tell No Tales"
+    }
+  },
+  "mission284-12": {
+    "data": {
+      "name": "Murder Most Foul"
+    }
+  },
+  "mission288-16": {
+    "data": {
+      "name": "Adventure!"
+    }
+  },
+  "mission2810-18": {
+    "data": {
+      "name": "Lone Survivors"
+    }
+  },
+  "mission297-16": {
+    "data": {
+      "name": "The Duel (Part II)"
+    }
+  },
+  "mission2913-22": {
+    "data": {
+      "name": "Missing in Action"
+    }
+  },
+  "mission21014-24": {
+    "data": {
+      "name": "Data Miner"
+    }
+  },
+  "mission316-7": {
+    "data": {
+      "name": "Sun'celeg Rises"
+    }
+  },
+  "mission345-9": {
+    "data": {
+      "name": "A Dish Served Cold"
+    }
+  },
+  "mission347-11": {
+    "data": {
+      "name": "Prone Sweet Prone"
+    }
+  },
+  "mission354-9": {
+    "data": {
+      "name": "Foggy Dilemma"
+    }
+  },
+  "mission361-7": {
+    "data": {
+      "name": "Slovity's Rampage"
+    }
+  },
+  "mission363-9": {
+    "data": {
+      "name": "Mayday"
+    }
+  },
+  "mission367-13": {
+    "data": {
+      "name": "A Friend in Need"
+    }
+  },
+  "mission376-13": {
+    "data": {
+      "name": "Mighty Mia"
+    }
+  },
+  "mission38-1-7": {
+    "data": {
+      "name": "The Duel (Part I)"
+    }
+  },
+  "mission384-12": {
+    "data": {
+      "name": "A Grim Undertaking"
+    }
+  },
+  "mission39-3-6": {
+    "data": {
+      "name": "The Little Rich Girl"
+    }
+  },
+  "mission39-1-8": {
+    "data": {
+      "name": "A Challenger Approaches"
+    }
+  },
+  "mission392-11": {
+    "data": {
+      "name": "Then and Now"
+    }
+  },
+  "mission395-14": {
+    "data": {
+      "name": "A Great Divide"
+    }
+  },
+  "mission3100-10": {
+    "data": {
+      "name": "Bread and a Circus"
+    }
+  },
+  "mission3103-13": {
+    "data": {
+      "name": "Shotgun Diplomacy"
+    }
+  },
+  "mission311-3-8": {
+    "data": {
+      "name": "Dorian Caravan"
+    }
+  },
+  "mission313-2-11": {
+    "data": {
+      "name": "The Trading Floor"
+    }
+  },
+  "mission314-2-12": {
+    "data": {
+      "name": "Spy Games"
+    }
+  },
+  "mission424-6": {
+    "data": {
+      "name": "Lesson from the Grave"
+    }
+  },
+  "mission425-7": {
+    "data": {
+      "name": "Predator and Prey"
+    }
+  },
+  "mission428-10": {
+    "data": {
+      "name": "Bottoms Up"
+    }
+  },
+  "mission436-9": {
+    "data": {
+      "name": "Castle in the Sky"
+    }
+  },
+  "mission442-6": {
+    "data": {
+      "name": "Plans of Attack"
+    }
+  },
+  "mission447-11": {
+    "data": {
+      "name": "The Line of Fire"
+    }
+  },
+  "mission45-2-3": {
+    "data": {
+      "name": "Unknown Assailant"
+    }
+  },
+  "mission453-8": {
+    "data": {
+      "name": "Soldier of the Harriers"
+    }
+  },
+  "mission455-10": {
+    "data": {
+      "name": "Hair Apparent"
+    }
+  },
+  "mission461-7": {
+    "data": {
+      "name": "Law and Orders"
+    }
+  },
+  "mission463-9": {
+    "data": {
+      "name": "Serial Thriller"
+    }
+  },
+  "mission466-12": {
+    "data": {
+      "name": "It's-a Mia!"
+    }
+  },
+  "mission47-1-6": {
+    "data": {
+      "name": "Good Fortun"
+    }
+  },
+  "mission49-2-7": {
+    "data": {
+      "name": "Special Delivery"
+    }
+  },
+  "mission49-1-8": {
+    "data": {
+      "name": "The Duel (Part III)"
+    }
+  },
+  "mission491-10": {
+    "data": {
+      "name": "Brotherly Love"
+    }
+  },
+  "mission410-4-6": {
+    "data": {
+      "name": "Leaving the Nest"
+    }
+  },
+  "mission4100-10": {
+    "data": {
+      "name": "Orphe Pluck"
+    }
+  },
+  "mission4110-11": {
+    "data": {
+      "name": "The Sword of Legendaryness"
+    }
+  },
+  "mission524-6": {
+    "data": {
+      "name": "Supplies Surprise"
+    }
+  },
+  "mission533-6": {
+    "data": {
+      "name": "Gorkwa Games"
+    }
+  },
+  "mission534-7": {
+    "data": {
+      "name": "Sparking a Smile"
+    }
+  },
+  "mission535-8": {
+    "data": {
+      "name": "Slovity's Revenge"
+    }
+  },
+  "mission551-6": {
+    "data": {
+      "name": "The Bodyguard"
+    }
+  },
+  "mission552-7": {
+    "data": {
+      "name": "My Angel, My Lana"
+    }
+  },
+  "mission56-1-5": {
+    "data": {
+      "name": "Definian Downfall"
+    }
+  },
+  "mission566-12": {
+    "data": {
+      "name": "The Old Gods"
+    }
+  },
+  "mission57-1-6": {
+    "data": {
+      "name": "Mia Is Missing!"
+    }
+  },
+  "mission570-7": {
+    "data": {
+      "name": "The Duel (Part IV)"
+    }
+  },
+  "mission573-10": {
+    "data": {
+      "name": "To Serve Nopon"
+    }
+  },
+  "mission574-11": {
+    "data": {
+      "name": "Rites of Ruin"
+    }
+  },
+  "mission576-13": {
+    "data": {
+      "name": "Black Lifehold"
+    }
+  },
+  "mission581-9": {
+    "data": {
+      "name": "Lionhearted"
+    }
+  },
+  "mission510-3-7": {
+    "data": {
+      "name": "A Present for Hope"
+    }
+  },
+  "mission5111-12": {
+    "data": {
+      "name": "Until the End"
+    }
+  },
+  "mission512-2-10": {
+    "data": {
+      "name": "The Queen Is Dead"
+    }
+  },
+  "mission5120-12": {
+    "data": {
+      "name": "Alex's Last Stand"
+    }
+  },
+  "mission513-4-9": {
+    "data": {
+      "name": "The Unbreakable Sword"
+    }
+  },
+  "lv0": {
+    "data": {
+      "name": "Locations"
+    }
+  },
+  "lv1": {
+    "data": {
+      "name": "Collectibles"
+    }
+  },
+  "lv2": {
+    "data": {
+      "name": "Segments"
+    }
+  },
+  "lv3": {
+    "data": {
+      "name": "Probes"
+    }
+  },
+  "lv4": {
+    "data": {
+      "name": "Enemies"
+    }
+  },
+  "lv5": {
+    "data": {
+      "name": "Recruits"
+    }
+  },
+  "lv9": {
+    "data": {
+      "name": "Recruits"
+    }
+  },
+  "char1lin": {
+    "data": {
+      "name": "Lin Lee Koo"
+    }
+  },
+  "n1": {
+    "data": {
+      "name": "Vegetables"
+    }
+  },
+  "n2": {
+    "data": {
+      "name": "Insects"
+    }
+  },
+  "n3": {
+    "data": {
+      "name": "Fruits"
+    }
+  },
+  "n4": {
+    "data": {
+      "name": "Flora"
+    }
+  },
+  "n5": {
+    "data": {
+      "name": "Fauna"
+    }
+  },
+  "n6": {
+    "data": {
+      "name": "Natural Artifacts"
+    }
+  },
+  "n7": {
+    "data": {
+      "name": "Wreckage"
+    }
+  },
+  "n8": {
+    "data": {
+      "name": "Relics"
+    }
+  },
+  "n9": {
+    "data": {
+      "name": "Xenotech"
+    }
+  },
+  "n10": {
+    "data": {
+      "name": "Curios"
+    }
+  },
+  "n11": {
+    "data": {
+      "name": "FN Prototype 3"
+    }
+  },
+  "n12": {
+    "data": {
+      "name": "Doom Mask"
+    }
+  },
+  "n13": {
+    "data": {
+      "name": "Landmark"
+    }
+  },
+  "n14": {
+    "data": {
+      "name": "Scenic Viewpoint"
+    }
+  },
+  "n15": {
+    "data": {
+      "name": "Unexplored Territory"
+    }
+  },
+  "n16": {
+    "data": {
+      "name": "Base Camp"
+    }
+  },
+  "n17": {
+    "data": {
+      "name": "Area"
+    }
+  },
+  "n18": {
+    "data": {
+      "name": "Miranium Deposit"
+    }
+  },
+  "n19": {
+    "data": {
+      "name": "Island"
+    }
+  },
+  "n20": {
+    "data": {
+      "name": "Forgotten Mining Frigate"
+    }
+  },
+  "n48": {
+    "data": {
+      "name": "Elma"
+    }
+  },
+  "n22": {
+    "data": {
+      "name": "Doug Barrett"
+    }
+  },
+  "n23": {
+    "data": {
+      "name": "Lao Huang"
+    }
+  },
+  "n24": {
+    "data": {
+      "name": "Mia"
+    }
+  },
+  "n25": {
+    "data": {
+      "name": "Celica"
+    }
+  },
+  "n26": {
+    "data": {
+      "name": "Gwin Evans"
+    }
+  },
+  "n27": {
+    "data": {
+      "name": "Sharon \"Murderess\" Effinger"
+    }
+  },
+  "n28": {
+    "data": {
+      "name": "Alexa"
+    }
+  },
+  "n29": {
+    "data": {
+      "name": "Bozé Lowes"
+    }
+  },
+  "n30": {
+    "data": {
+      "name": "Avatar"
+    }
+  },
+  "n31": {
+    "data": {
+      "name": "Frye Christoph"
+    }
+  },
+  "n32": {
+    "data": {
+      "name": "Hector \"H.B.\" Birtwhistle"
+    }
+  },
+  "n33": {
+    "data": {
+      "name": "Hope Alanzi"
+    }
+  },
+  "n34": {
+    "data": {
+      "name": "L'cirufe \"L\""
+    }
+  },
+  "n35": {
+    "data": {
+      "name": "Kentaro Nagi"
+    }
+  },
+  "n36": {
+    "data": {
+      "name": "Phog Christoph"
+    }
+  },
+  "n78": {
+    "data": {
+      "name": "Irina Akulov"
+    }
+  },
+  "n67": {
+    "data": {
+      "name": "Yelv"
+    }
+  },
+  "n38": {
+    "data": {
+      "name": "Segments"
+    }
+  },
+  "n289": {
+    "data": {
+      "name": "Segments"
+    }
+  },
+  "n290": {
+    "data": {
+      "name": "Recruits"
+    }
+  },
+  "n291": {
+    "data": {
+      "name": "BLADE Barracks"
+    }
+  },
+  "n292": {
+    "data": {
+      "name": "Segments"
+    }
+  },
+  "n323": {
+    "data": {
+      "name": "Locations"
+    }
+  },
+  "n643": {
+    "data": {
+      "name": "Locations"
+    }
+  },
+  "n777": {
+    "data": {
+      "name": "Locations"
+    }
+  },
+  "n324": {
+    "data": {
+      "name": "Two Peas in a Pod"
+    }
+  },
+  "n325": {
+    "data": {
+      "name": "Fathers and Sons"
+    }
+  },
+  "n326": {
+    "data": {
+      "name": "BFFs"
+    }
+  },
+  "n644": {
+    "data": {
+      "name": "Complete All Story Missions"
+    }
+  },
+  "n327": {
+    "data": {
+      "name": "Elma's 5th Heart-to-Heart"
+    }
+  },
+  "n328": {
+    "data": {
+      "name": "Nagi's 4th Heart-to-Heart"
+    }
+  },
+  "n645": {
+    "data": {
+      "name": "Barracks Interior"
+    }
+  },
+  "n780": {
+    "data": {
+      "name": "Deliverance Park"
+    }
+  },
+  "n781": {
+    "data": {
+      "name": "Cathedral"
+    }
+  },
+  "n782": {
+    "data": {
+      "name": "Sports Complex"
+    }
+  },
+  "n783": {
+    "data": {
+      "name": "Ishmael Hills"
+    }
+  },
+  "n784": {
+    "data": {
+      "name": "Water Purification Plant"
+    }
+  },
+  "n331": {
+    "data": {
+      "name": "Mimeosome Maintenance Center"
+    }
+  },
+  "n332": {
+    "data": {
+      "name": "BLADE Tower"
+    }
+  },
+  "n333": {
+    "data": {
+      "name": "Armory Alley"
+    }
+  },
+  "n334": {
+    "data": {
+      "name": "BLADE Concourse"
+    }
+  },
+  "n335": {
+    "data": {
+      "name": "Hangar"
+    }
+  },
+  "n336": {
+    "data": {
+      "name": "Division Drive"
+    }
+  },
+  "n337": {
+    "data": {
+      "name": "East Gate"
+    }
+  },
+  "n828": {
+    "data": {
+      "name": "Outfitters Test Hangar"
+    }
+  },
+  "n829": {
+    "data": {
+      "name": "Integrated Production Plant"
+    }
+  },
+  "n830": {
+    "data": {
+      "name": "Central Industrial District"
+    }
+  },
+  "n831": {
+    "data": {
+      "name": "Repenta Diner"
+    }
+  },
+  "n339": {
+    "data": {
+      "name": "West Gate"
+    }
+  },
+  "n648": {
+    "data": {
+      "name": "West Melville Street"
+    }
+  },
+  "n649": {
+    "data": {
+      "name": "Central Melville Street"
+    }
+  },
+  "n650": {
+    "data": {
+      "name": "East Melville Street"
+    }
+  },
+  "n651": {
+    "data": {
+      "name": "Barista Court"
+    }
+  },
+  "n652": {
+    "data": {
+      "name": "North Founders Street"
+    }
+  },
+  "n806": {
+    "data": {
+      "name": "Port Side"
+    }
+  },
+  "n807": {
+    "data": {
+      "name": "Deck"
+    }
+  },
+  "n808": {
+    "data": {
+      "name": "Starboard"
+    }
+  },
+  "n341": {
+    "data": {
+      "name": "Affinity Shift: Zurranik"
+    }
+  },
+  "n342": {
+    "data": {
+      "name": "A New Life"
+    }
+  },
+  "n655": {
+    "data": {
+      "name": "L's 2nd Heart-to-Heart"
+    }
+  },
+  "n809": {
+    "data": {
+      "name": "The Membership"
+    }
+  },
+  "n819": {
+    "data": {
+      "name": "Tree-mendous"
+    }
+  },
+  "n821": {
+    "data": {
+      "name": "Elma's 4th Heart-to-Heart"
+    }
+  },
+  "n832": {
+    "data": {
+      "name": "The Party Line"
+    }
+  },
+  "n343": {
+    "data": {
+      "name": "Affinity Shift: Nopopon"
+    }
+  },
+  "n656": {
+    "data": {
+      "name": "Planetary Pioneer (Part IV)"
+    }
+  },
+  "n810": {
+    "data": {
+      "name": "Myles to Go"
+    }
+  },
+  "n833": {
+    "data": {
+      "name": "Blitzkrieg"
+    }
+  },
+  "n839": {
+    "data": {
+      "name": "Gwin's 1st Heart-to-Heart"
+    }
+  },
+  "n845": {
+    "data": {
+      "name": "Going Viral"
+    }
+  },
+  "n848": {
+    "data": {
+      "name": "Professor B's Return"
+    }
+  },
+  "n850": {
+    "data": {
+      "name": "Gold Rush"
+    }
+  },
+  "n852": {
+    "data": {
+      "name": "Frye's 1st Heart-to-Heart"
+    }
+  },
+  "n857": {
+    "data": {
+      "name": "Fitting In"
+    }
+  },
+  "n859": {
+    "data": {
+      "name": "Celica's 5th Heart-to-Heart"
+    }
+  },
+  "n861": {
+    "data": {
+      "name": "Celica's 4th Heart-to-Heart"
+    }
+  },
+  "n863": {
+    "data": {
+      "name": "Nagi's 2nd Heart-to-Heart"
+    }
+  },
+  "n865": {
+    "data": {
+      "name": "The Gauntlet"
+    }
+  },
+  "n867": {
+    "data": {
+      "name": "Two Warriors"
+    }
+  },
+  "n869": {
+    "data": {
+      "name": "Data Probe Challenge"
+    }
+  },
+  "n871": {
+    "data": {
+      "name": "New in New LA"
+    }
+  },
+  "n874": {
+    "data": {
+      "name": "Yardley's Scheme"
+    }
+  },
+  "n876": {
+    "data": {
+      "name": "Off the Record (Biological)"
+    }
+  },
+  "n878": {
+    "data": {
+      "name": "Boot Camp"
+    }
+  },
+  "n882": {
+    "data": {
+      "name": "A Girl's Wings"
+    }
+  },
+  "n344": {
+    "data": {
+      "name": "Turf War"
+    }
+  },
+  "n657": {
+    "data": {
+      "name": "Doug's 2nd Heart-to-Heart"
+    }
+  },
+  "n846": {
+    "data": {
+      "name": "Murderess' 3rd Heart-to-Heart"
+    }
+  },
+  "n849": {
+    "data": {
+      "name": "Forest Foray"
+    }
+  },
+  "n851": {
+    "data": {
+      "name": "Pollution Solution"
+    }
+  },
+  "h2hscind15": {
+    "data": {
+      "name": "Elma's 1st Heart-to-Heart"
+    }
+  },
+  "miscind115": {
+    "data": {
+      "name": "Entrepreneurial Spirit"
+    }
+  },
+  "miscind165": {
+    "data": {
+      "name": "Child of Mira"
+    }
+  },
+  "miscind305": {
+    "data": {
+      "name": "Data Probe Progress"
+    }
+  },
+  "miscind355": {
+    "data": {
+      "name": "Data Probe Evolution"
+    }
+  },
+  "miscind455": {
+    "data": {
+      "name": "Professorial (aka The Disappearance of Doctor B)"
+    }
+  },
+  "miscind505": {
+    "data": {
+      "name": "Rise of the Blood Lobster"
+    }
+  },
+  "h2hscind555": {
+    "data": {
+      "name": "Mia's 3rd Heart-to-Heart"
+    }
+  },
+  "h2hscind615": {
+    "data": {
+      "name": "Hope's 3rd Heart-to-Heart"
+    }
+  },
+  "miscind675": {
+    "data": {
+      "name": "Pack It In"
+    }
+  },
+  "h2hscind725": {
+    "data": {
+      "name": "Irina's 1st Heart-to-Heart"
+    }
+  },
+  "h2hscind775": {
+    "data": {
+      "name": "Frye's 5th Heart-to-Heart"
+    }
+  },
+  "h2hscind865": {
+    "data": {
+      "name": "Celica's 1st Heart-to-Heart"
+    }
+  },
+  "miscind915": {
+    "data": {
+      "name": "Mystery Man"
+    }
+  },
+  "afshiftscind1015": {
+    "data": {
+      "name": "Affinity Shift: Horonalderon"
+    }
+  },
+  "miscind1040": {
+    "data": {
+      "name": "Good Neighbors"
+    }
+  },
+  "h2hscind1090": {
+    "data": {
+      "name": "Irina's 4th Heart-to-Heart"
+    }
+  },
+  "h2hscind1150": {
+    "data": {
+      "name": "Lin's 1st Heart-to-Heart"
+    }
+  },
+  "miscind1200": {
+    "data": {
+      "name": "Data Probe Breakthrough"
+    }
+  },
+  "miscind1250": {
+    "data": {
+      "name": "Data Probe Revolution"
+    }
+  },
+  "n658": {
+    "data": {
+      "name": "The Pip-Squeak"
+    }
+  },
+  "h2hsccomm60": {
+    "data": {
+      "name": "Gwin's 5th Heart-to-Heart"
+    }
+  },
+  "misccomm95": {
+    "data": {
+      "name": "No Ma-non Need Apply"
+    }
+  },
+  "misccomm120": {
+    "data": {
+      "name": "Alien Nation"
+    }
+  },
+  "h2hsccomm145": {
+    "data": {
+      "name": "L's 4th Heart-to-Heart"
+    }
+  },
+  "h2hsccomm205": {
+    "data": {
+      "name": "Nagi's 3rd Heart-to-Heart"
+    }
+  },
+  "h2hsccomm230": {
+    "data": {
+      "name": "Mia's 4th Heart-to-Heart"
+    }
+  },
+  "misccomm315": {
+    "data": {
+      "name": "Unsatisfied Customer"
+    }
+  },
+  "h2hsccomm320": {
+    "data": {
+      "name": "Celica's 3rd Heart-to-Heart"
+    }
+  },
+  "misccomm365": {
+    "data": {
+      "name": "The Fashionista"
+    }
+  },
+  "misccomm415": {
+    "data": {
+      "name": "Planetary Pioneer (Part III)"
+    }
+  },
+  "h2hsccomm520": {
+    "data": {
+      "name": "Mia's 2nd Heart-to-Heart"
+    }
+  },
+  "h2hsccomm545": {
+    "data": {
+      "name": "Murderess' 2nd Heart-to-Heart"
+    }
+  },
+  "h2hsccomm620": {
+    "data": {
+      "name": "Phog's 4th Heart-to-Heart"
+    }
+  },
+  "h2hsccomm645": {
+    "data": {
+      "name": "Frye's 4th Heart-to-Heart"
+    }
+  },
+  "misccomm680": {
+    "data": {
+      "name": "A Hero's Ride"
+    }
+  },
+  "misccomm730": {
+    "data": {
+      "name": "Better Latte Than Never"
+    }
+  },
+  "h2hsccomm780": {
+    "data": {
+      "name": "Doug's 4th Heart-to-Heart"
+    }
+  },
+  "h2hsccomm795": {
+    "data": {
+      "name": "Hope's 5th Heart-to-Heart"
+    }
+  },
+  "afshiftsccomm840": {
+    "data": {
+      "name": "Affinity Shift: Quiquat"
+    }
+  },
+  "misccomm855": {
+    "data": {
+      "name": "Trade Agreement"
+    }
+  },
+  "h2hsccomm880": {
+    "data": {
+      "name": "Lin's 4th Heart-to-Heart"
+    }
+  },
+  "afmissccomm905": {
+    "data": {
+      "name": "The Ties That Bind"
+    }
+  },
+  "misccomm930": {
+    "data": {
+      "name": "Emotion Commotion"
+    }
+  },
+  "h2hsccomm935": {
+    "data": {
+      "name": "L's 1st Heart-to-Heart"
+    }
+  },
+  "afmissccomm980": {
+    "data": {
+      "name": "The Matchmaker"
+    }
+  },
+  "afshiftsccomm995": {
+    "data": {
+      "name": "Affinity Shift: Beats"
+    }
+  },
+  "h2hsccomm1070": {
+    "data": {
+      "name": "Irina's 5th Heart-to-Heart"
+    }
+  },
+  "misccomm1085": {
+    "data": {
+      "name": "Wrothian Innovation"
+    }
+  },
+  "afshiftsccomm1120": {
+    "data": {
+      "name": "Affinity Shift: Veverta"
+    }
+  },
+  "h2hsccomm1125": {
+    "data": {
+      "name": "Hope's 2nd Heart-to-Heart"
+    }
+  },
+  "h2hsccomm1215": {
+    "data": {
+      "name": "Elma's 3rd Heart-to-Heart"
+    }
+  },
+  "n346": {
+    "data": {
+      "name": "Lin's 2nd Heart-to-Heart"
+    }
+  },
+  "h2hscres10": {
+    "data": {
+      "name": "Phog's 1st Heart-to-Heart"
+    }
+  },
+  "h2hscres15": {
+    "data": {
+      "name": "Elma's 2nd Heart-to-Heart"
+    }
+  },
+  "miscres75": {
+    "data": {
+      "name": "New Frontier"
+    }
+  },
+  "miscres125": {
+    "data": {
+      "name": "Off the Record (Mechanical)"
+    }
+  },
+  "h2hscres140": {
+    "data": {
+      "name": "Lin's 5th Heart-to-Heart"
+    }
+  },
+  "h2hscres175": {
+    "data": {
+      "name": "Mia's 1st Heart-to-Heart"
+    }
+  },
+  "miscres200": {
+    "data": {
+      "name": "Off the Record (Archaeological)"
+    }
+  },
+  "afshiftscres225": {
+    "data": {
+      "name": "Affinity Shift: Caroline"
+    }
+  },
+  "h2hscres250": {
+    "data": {
+      "name": "Phog's 3rd Heart-to-Heart"
+    }
+  },
+  "h2hscres305": {
+    "data": {
+      "name": "Phog's 2nd Heart-to-Heart"
+    }
+  },
+  "h2hscres340": {
+    "data": {
+      "name": "Gwin's 2nd Heart-to-Heart"
+    }
+  },
+  "afshiftscres365": {
+    "data": {
+      "name": "Affinity Shift: Kon'luarb"
+    }
+  },
+  "miscres390": {
+    "data": {
+      "name": "Herbivores, Unite!"
+    }
+  },
+  "miscres395": {
+    "data": {
+      "name": "Lakeside Getaway"
+    }
+  },
+  "miscres435": {
+    "data": {
+      "name": "Water Woes"
+    }
+  },
+  "miscres470": {
+    "data": {
+      "name": "The Celeste Three"
+    }
+  },
+  "h2hscres485": {
+    "data": {
+      "name": "Irina's 2nd Heart-to-Heart"
+    }
+  },
+  "h2hscres520": {
+    "data": {
+      "name": "L's 5th Heart-to-Heart"
+    }
+  },
+  "h2hscres545": {
+    "data": {
+      "name": "L's 3rd Heart-to-Heart"
+    }
+  },
+  "h2hscres580": {
+    "data": {
+      "name": "Celica's 2nd Heart-to-Heart"
+    }
+  },
+  "h2hscres605": {
+    "data": {
+      "name": "Murderess' 5th Heart-to-Heart"
+    }
+  },
+  "h2hscres640": {
+    "data": {
+      "name": "Doug's 3rd Heart-to-Heart"
+    }
+  },
+  "afshiftscres665": {
+    "data": {
+      "name": "Affinity Shift: Wendy"
+    }
+  },
+  "h2hscres690": {
+    "data": {
+      "name": "Gwin's 3rd Heart-to-Heart"
+    }
+  },
+  "h2hscres695": {
+    "data": {
+      "name": "Nagi's 5th Heart-to-Heart"
+    }
+  },
+  "h2hscres740": {
+    "data": {
+      "name": "Frye's 3rd Heart-to-Heart"
+    }
+  },
+  "afmisscres775": {
+    "data": {
+      "name": "Hope Springs Eternal"
+    }
+  },
+  "miscres815": {
+    "data": {
+      "name": "The Miracle Maker"
+    }
+  },
+  "miscres865": {
+    "data": {
+      "name": "The Divine Nopopon"
+    }
+  },
+  "miscres880": {
+    "data": {
+      "name": "Planetary Pioneer (Part V)"
+    }
+  },
+  "h2hscres930": {
+    "data": {
+      "name": "Gwin's 4th Heart-to-Heart"
+    }
+  },
+  "miscres955": {
+    "data": {
+      "name": "The Bug Whisperer"
+    }
+  },
+  "h2hscres990": {
+    "data": {
+      "name": "Mia's 5th Heart-to-Heart"
+    }
+  },
+  "h2hscres1040": {
+    "data": {
+      "name": "Hope's 4th Heart-to-Heart"
+    }
+  },
+  "afshiftscres1045": {
+    "data": {
+      "name": "Affinity Shift: Letrick"
+    }
+  },
+  "h2hscres1100": {
+    "data": {
+      "name": "Phog's 5th Heart-to-Heart"
+    }
+  },
+  "miscres1135": {
+    "data": {
+      "name": "Definian Love"
+    }
+  },
+  "afshiftscres1185": {
+    "data": {
+      "name": "Affinity Shift: Phoskeran"
+    }
+  },
+  "h2hscres1200": {
+    "data": {
+      "name": "Murderess' 1st Heart-to-Heart"
+    }
+  },
+  "h2hscres1250": {
+    "data": {
+      "name": "Murderess' 4th Heart-to-Heart"
+    }
+  },
+  "h2hscres1340": {
+    "data": {
+      "name": "Doug's 1st Heart-to-Heart"
+    }
+  },
+  "miscres1345": {
+    "data": {
+      "name": "The Journey Begins"
+    }
+  },
+  "h2hscres1395": {
+    "data": {
+      "name": "Hope's 1st Heart-to-Heart"
+    }
+  },
+  "n952": {
+    "data": {
+      "name": "Fortun and Glory"
+    }
+  },
+  "miscadm115": {
+    "data": {
+      "name": "Waste Not, Want Not"
+    }
+  },
+  "miscadm140": {
+    "data": {
+      "name": "Cavern Crushers"
+    }
+  },
+  "miscadm165": {
+    "data": {
+      "name": "Skell License"
+    }
+  },
+  "miscadm190": {
+    "data": {
+      "name": "Attack on Biahno Hills"
+    }
+  },
+  "h2hscadm215": {
+    "data": {
+      "name": "Frye's 2nd Heart-to-Heart"
+    }
+  },
+  "miscadm275": {
+    "data": {
+      "name": "House of Cards"
+    }
+  },
+  "miscadm325": {
+    "data": {
+      "name": "White Lifehold"
+    }
+  },
+  "miscadm375": {
+    "data": {
+      "name": "BLADE Level Basics"
+    }
+  },
+  "h2hscadm430": {
+    "data": {
+      "name": "Irina's 3rd Heart-to-Heart"
+    }
+  },
+  "miscadm465": {
+    "data": {
+      "name": "The Probe-fessional"
+    }
+  },
+  "miscadm670": {
+    "data": {
+      "name": "The Ultimate Price"
+    }
+  },
+  "miscadm720": {
+    "data": {
+      "name": "The Handy Ma-non"
+    }
+  },
+  "afshiftscadm785": {
+    "data": {
+      "name": "Affinity Shift: Wolf"
+    }
+  },
+  "afshiftscadm810": {
+    "data": {
+      "name": "Affinity Shift: Cedric"
+    }
+  },
+  "miscadm825": {
+    "data": {
+      "name": "Ovah and Out"
+    }
+  },
+  "miscadm875": {
+    "data": {
+      "name": "Cooking Schooled"
+    }
+  },
+  "miscadm910": {
+    "data": {
+      "name": "That's In-Credible!"
+    }
+  },
+  "afmisscadm950": {
+    "data": {
+      "name": "Reporting for Duty"
+    }
+  },
+  "miscadm1030": {
+    "data": {
+      "name": "Planetary Pioneer (Part II)"
+    }
+  },
+  "h2hscadm1055": {
+    "data": {
+      "name": "Lin's 3rd Heart-to-Heart"
+    }
+  },
+  "miscadm1120": {
+    "data": {
+      "name": "Mamma Mia!"
+    }
+  },
+  "miscadm1165": {
+    "data": {
+      "name": "The Root of All Evil"
+    }
+  },
+  "afmisscadm1170": {
+    "data": {
+      "name": "Mia Grows Up"
+    }
+  },
+  "h2hscadm1240": {
+    "data": {
+      "name": "Doug's 5th Heart-to-Heart"
+    }
+  },
+  "afmisscadm1300": {
+    "data": {
+      "name": "L's Conundrum"
+    }
+  },
+  "miscadm1340": {
+    "data": {
+      "name": "Booming Business"
+    }
+  },
+  "miscadm1390": {
+    "data": {
+      "name": "Lend an Ear"
+    }
+  },
+  "miscadm1430": {
+    "data": {
+      "name": "Setting Forth"
+    }
+  },
+  "h2hscadm1470": {
+    "data": {
+      "name": "Nagi's 1st Heart-to-Heart"
+    }
+  },
+  "n350": {
+    "data": {
+      "name": "Planetary Pioneer (Part I)"
+    }
+  }
+}
