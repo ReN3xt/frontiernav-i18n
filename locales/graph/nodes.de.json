@@ -1,77 +1,77 @@
 {
   "collectible1i0": {
     "data": {
-      "name": "Ajira Melon"
+      "name": "Ajiramelone"
     }
   },
   "collectible1i1": {
     "data": {
-      "name": "Cranjelly"
+      "name": "Glibberbeere"
     }
   },
   "collectible1i2": {
     "data": {
-      "name": "Zesian Fleawort"
+      "name": "Nickerwegerich"
     }
   },
   "collectible1i3": {
     "data": {
-      "name": "Rizattice"
+      "name": "Risateidechse"
     }
   },
   "collectible1i4": {
     "data": {
-      "name": "Ball Mosquito"
+      "name": "Kugelmoskito"
     }
   },
   "collectible1i5": {
     "data": {
-      "name": "Deflection Shield Mirror"
+      "name": "Abwehrschildspiegel"
     }
   },
   "collectible1i6": {
     "data": {
-      "name": "L-002 Fuel Tank"
+      "name": "Treibstofftank L-002"
     }
   },
   "collectible1i7": {
     "data": {
-      "name": "L-002 Space Analyzer"
+      "name": "Biosphärenprüfer L-002"
     }
   },
   "collectible1i8": {
     "data": {
-      "name": "Lacey Potato"
+      "name": "Spitzkartoffel"
     }
   },
   "collectible1i9": {
     "data": {
-      "name": "Strawlenny"
+      "name": "Xerdbeere"
     }
   },
   "collectible1i10": {
     "data": {
-      "name": "Starlight Apple"
+      "name": "Sternkernapfel"
     }
   },
   "collectible1i11": {
     "data": {
-      "name": "Sweet Nerine"
+      "name": "Honigkuchenblume"
     }
   },
   "collectible1i12": {
     "data": {
-      "name": "Golden Sardine"
+      "name": "Goldsardine"
     }
   },
   "collectible1i13": {
     "data": {
-      "name": "Keppo Carrot"
+      "name": "Keppokarotte"
     }
   },
   "collectible1i14": {
     "data": {
-      "name": "Arnacian Orewood"
+      "name": "Arnasisches Wiederz"
     }
   },
   "collectible1i15": {
@@ -3081,7 +3081,7 @@
   },
   "loc315": {
     "data": {
-      "name": "Primordia Base Camp 1"
+      "name": "AP Halbdunkelsteige"
     }
   },
   "loc316": {
@@ -3286,7 +3286,7 @@
   },
   "loc356": {
     "data": {
-      "name": "Shadow Rise"
+      "name": "Halbdunkelsteige"
     }
   },
   "loc357": {
@@ -3366,7 +3366,7 @@
   },
   "loc372": {
     "data": {
-      "name": "Starfall Basin"
+      "name": "Kometenkessel"
     }
   },
   "loc373": {
@@ -3616,17 +3616,17 @@
   },
   "collectibleset1i1": {
     "data": {
-      "name": "Primordia Southwest Area"
+      "name": "Primordia Südwesten"
     }
   },
   "collectibleset1i2": {
     "data": {
-      "name": "Primordia Northwest Area"
+      "name": "Primordia Nordwesten"
     }
   },
   "collectibleset1i3": {
     "data": {
-      "name": "Primordia Middle Area"
+      "name": "Primordia Mitte"
     }
   },
   "collectibleset1i4": {
@@ -3636,107 +3636,107 @@
   },
   "collectibleset1i5": {
     "data": {
-      "name": "Primordia North Area"
+      "name": "Primordia Norden"
     }
   },
   "collectibleset1i6": {
     "data": {
-      "name": "Primordia Southeast Area"
+      "name": "Primordia Südosten"
     }
   },
   "collectibleset1i7": {
     "data": {
-      "name": "Primordia Northeast Area"
+      "name": "Primordia Nordosten"
     }
   },
   "collectibleset1i8": {
     "data": {
-      "name": "Primordia North Shore Area"
+      "name": "Primordia Nordküste"
     }
   },
   "collectibleset1i9": {
     "data": {
-      "name": "Primordia Cave Areas"
+      "name": "Primordia Höhlen"
     }
   },
   "collectibleset2i1": {
     "data": {
-      "name": "Noctilum South Forest Area"
+      "name": "Noctilum Südwald"
     }
   },
   "collectibleset2i2": {
     "data": {
-      "name": "Noctilum North Forest Area"
+      "name": "Noctilum Nordwald"
     }
   },
   "collectibleset2i3": {
     "data": {
-      "name": "Noctilum Lake Area"
+      "name": "Noctilum See"
     }
   },
   "collectibleset2i4": {
     "data": {
-      "name": "Noctilum Falls Area"
+      "name": "Noctilum Wasserfall"
     }
   },
   "collectibleset2i5": {
     "data": {
-      "name": "Noctilum Rocky Mountain Area"
+      "name": "Noctilum Felsberg"
     }
   },
   "collectibleset2i6": {
     "data": {
-      "name": "Noctilum Ravine Area"
+      "name": "Noctilum Schlucht"
     }
   },
   "collectibleset2i7": {
     "data": {
-      "name": "Noctilum Stream Area"
+      "name": "Noctilum Fluss"
     }
   },
   "collectibleset2i8": {
     "data": {
-      "name": "Noctilum Mountain Trail Area"
+      "name": "Noctilum Bergpfad"
     }
   },
   "collectibleset2i9": {
     "data": {
-      "name": "Noctilum Cave Areas"
+      "name": "Noctilum Höhlen"
     }
   },
   "collectibleset3i1": {
     "data": {
-      "name": "Oblivia Crevasse Area"
+      "name": "Oblivia Kluft"
     }
   },
   "collectibleset3i2": {
     "data": {
-      "name": "Oblivia Northern Coast Area"
+      "name": "Oblivia Nordküste"
     }
   },
   "collectibleset3i3": {
     "data": {
-      "name": "Oblivia Stream Area"
+      "name": "Oblivia Fluss"
     }
   },
   "collectibleset3i4": {
     "data": {
-      "name": "Oblivia Southern Coast Area"
+      "name": "Oblivia Südküste"
     }
   },
   "collectibleset3i5": {
     "data": {
-      "name": "Oblivia Mountain Area"
+      "name": "Oblivia Berge"
     }
   },
   "collectibleset3i6": {
     "data": {
-      "name": "Oblivia Lake Area"
+      "name": "Oblivia See"
     }
   },
   "collectibleset3i7": {
     "data": {
-      "name": "Oblivia Cove Area"
+      "name": "Oblivia Bucht"
     }
   },
   "collectibleset3i8": {
@@ -3746,37 +3746,37 @@
   },
   "collectibleset3i9": {
     "data": {
-      "name": "Oblivia Cave Areas"
+      "name": "Oblivia Höhlen"
     }
   },
   "collectibleset4i1": {
     "data": {
-      "name": "Sylvalum Southern Coast Area"
+      "name": "Sylvalum Südküste"
     }
   },
   "collectibleset4i2": {
     "data": {
-      "name": "Sylvalum Southeast-East Coast Area"
+      "name": "Sylvalum Südost-Ost-Küste"
     }
   },
   "collectibleset4i3": {
     "data": {
-      "name": "Sylvalum Western Sands Area"
+      "name": "Sylvalum Westliche Sandfläche"
     }
   },
   "collectibleset4i4": {
     "data": {
-      "name": "Sylvalum Lake Area"
+      "name": "Sylvalum See"
     }
   },
   "collectibleset4i5": {
     "data": {
-      "name": "Sylvalum Northern Sands Area"
+      "name": "Sylvalum Nördliche Sandfläche"
     }
   },
   "collectibleset4i6": {
     "data": {
-      "name": "Sylvalum Great Sand Hill Area"
+      "name": "Sylvalum Großer Sandhügel"
     }
   },
   "collectibleset4i7": {
@@ -3791,52 +3791,52 @@
   },
   "collectibleset4i9": {
     "data": {
-      "name": "Sylvalum Cave Areas"
+      "name": "Sylvalum Höhlen"
     }
   },
   "collectibleset5i1": {
     "data": {
-      "name": "Cauldros Volcano Area"
+      "name": "Cauldros Vulkan"
     }
   },
   "collectibleset5i2": {
     "data": {
-      "name": "Cauldros Kw'arah Cloister Area"
+      "name": "Cauldros Kw'arah Kloster"
     }
   },
   "collectibleset5i3": {
     "data": {
-      "name": "Cauldros Castle Area"
+      "name": "Cauldros Schloss"
     }
   },
   "collectibleset5i4": {
     "data": {
-      "name": "Cauldros Distant Area"
+      "name": "Cauldros Ferne"
     }
   },
   "collectibleset5i5": {
     "data": {
-      "name": "Cauldros Magma Area"
+      "name": "Cauldros Magma"
     }
   },
   "collectibleset5i6": {
     "data": {
-      "name": "Cauldros Solitary Island Area"
+      "name": "Cauldros Einsame Insel"
     }
   },
   "collectibleset5i7": {
     "data": {
-      "name": "Cauldros White Phosphorus Area"
+      "name": "Cauldros Weißer Phosphor"
     }
   },
   "collectibleset5i8": {
     "data": {
-      "name": "Cauldros Old Battleground Area"
+      "name": "Cauldros Altes Schlachtfeld"
     }
   },
   "collectibleset5i9": {
     "data": {
-      "name": "Cauldros Cave Areas"
+      "name": "Cauldros Höhlen"
     }
   },
   "region1": {
@@ -3886,7 +3886,7 @@
   },
   "siteGraph0": {
     "data": {
-      "name": "Default (Jahed's Layout)"
+      "name": "Standard (Jahed's Layout)"
     }
   },
   "probe1": {
@@ -5836,12 +5836,12 @@
   },
   "lv0": {
     "data": {
-      "name": "Locations"
+      "name": "Orte"
     }
   },
   "lv1": {
     "data": {
-      "name": "Collectibles"
+      "name": "Sammel-Items"
     }
   },
   "lv2": {
@@ -5856,7 +5856,7 @@
   },
   "lv4": {
     "data": {
-      "name": "Enemies"
+      "name": "Gegner"
     }
   },
   "lv5": {
@@ -5876,37 +5876,37 @@
   },
   "n1": {
     "data": {
-      "name": "Vegetables"
+      "name": "Gemüse"
     }
   },
   "n2": {
     "data": {
-      "name": "Insects"
+      "name": "Insekten"
     }
   },
   "n3": {
     "data": {
-      "name": "Fruits"
+      "name": "Obst"
     }
   },
   "n4": {
     "data": {
-      "name": "Flora"
+      "name": "Blumen"
     }
   },
   "n5": {
     "data": {
-      "name": "Fauna"
+      "name": "Kleintiere"
     }
   },
   "n6": {
     "data": {
-      "name": "Natural Artifacts"
+      "name": "Natur"
     }
   },
   "n7": {
     "data": {
-      "name": "Wreckage"
+      "name": "Trümmer"
     }
   },
   "n8": {
@@ -5936,37 +5936,37 @@
   },
   "n13": {
     "data": {
-      "name": "Landmark"
+      "name": "Reisepunkt"
     }
   },
   "n14": {
     "data": {
-      "name": "Scenic Viewpoint"
+      "name": "Aussichtspunkt"
     }
   },
   "n15": {
     "data": {
-      "name": "Unexplored Territory"
+      "name": "Geheimnisvoller Ort"
     }
   },
   "n16": {
     "data": {
-      "name": "Base Camp"
+      "name": "Außenposten"
     }
   },
   "n17": {
     "data": {
-      "name": "Area"
+      "name": "Gebiet"
     }
   },
   "n18": {
     "data": {
-      "name": "Miranium Deposit"
+      "name": "FrontierNav-Knotenpunkt"
     }
   },
   "n19": {
     "data": {
-      "name": "Island"
+      "name": "Insel"
     }
   },
   "n20": {
@@ -6081,7 +6081,7 @@
   },
   "n291": {
     "data": {
-      "name": "BLADE Barracks"
+      "name": "BLADE-Quartier"
     }
   },
   "n292": {
@@ -6091,17 +6091,17 @@
   },
   "n323": {
     "data": {
-      "name": "Locations"
+      "name": "Orte"
     }
   },
   "n643": {
     "data": {
-      "name": "Locations"
+      "name": "Orte"
     }
   },
   "n777": {
     "data": {
-      "name": "Locations"
+      "name": "Orte"
     }
   },
   "n324": {
