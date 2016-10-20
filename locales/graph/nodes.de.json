@@ -6136,7 +6136,7 @@
   },
   "n645": {
     "data": {
-      "name": "Barracks Interior"
+      "name": "BLADE-Quartier"
     }
   },
   "n780": {
@@ -6166,22 +6166,22 @@
   },
   "n331": {
     "data": {
-      "name": "Mimeosome Maintenance Center"
+      "name": "Wartungszentrum"
     }
   },
   "n332": {
     "data": {
-      "name": "BLADE Tower"
+      "name": "BLADE-Turm"
     }
   },
   "n333": {
     "data": {
-      "name": "Armory Alley"
+      "name": "Arsenal-Allee"
     }
   },
   "n334": {
     "data": {
-      "name": "BLADE Concourse"
+      "name": "BLADE-Sammelpunkt"
     }
   },
   "n335": {
@@ -6191,12 +6191,12 @@
   },
   "n336": {
     "data": {
-      "name": "Division Drive"
+      "name": "Straße der Divisionen"
     }
   },
   "n337": {
     "data": {
-      "name": "East Gate"
+      "name": "Osttor"
     }
   },
   "n828": {
@@ -6221,7 +6221,7 @@
   },
   "n339": {
     "data": {
-      "name": "West Gate"
+      "name": "Westtor"
     }
   },
   "n648": {
