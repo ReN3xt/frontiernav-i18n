@@ -1,17 +1,17 @@
 {
   "collectible1i0": {
     "data": {
-      "name": "Ajira Melon"
+      "name": "Melone Ajira"
     }
   },
   "collectible1i1": {
     "data": {
-      "name": "Cranjelly"
+      "name": "Mirtillograno"
     }
   },
   "collectible1i2": {
     "data": {
-      "name": "Zesian Fleawort"
+      "name": "Plantago Zezè"
     }
   },
   "collectible1i3": {
@@ -21,52 +21,52 @@
   },
   "collectible1i4": {
     "data": {
-      "name": "Ball Mosquito"
+      "name": "Zanzara palla"
     }
   },
   "collectible1i5": {
     "data": {
-      "name": "Deflection Shield Mirror"
+      "name": "Specchioscudo deflettore"
     }
   },
   "collectible1i6": {
     "data": {
-      "name": "L-002 Fuel Tank"
+      "name": "Serbatoio L-002"
     }
   },
   "collectible1i7": {
     "data": {
-      "name": "L-002 Space Analyzer"
+      "name": "Spaziometro L-002"
     }
   },
   "collectible1i8": {
     "data": {
-      "name": "Lacey Potato"
+      "name": "Patata legata"
     }
   },
   "collectible1i9": {
     "data": {
-      "name": "Strawlenny"
+      "name": "Bardanfragola"
     }
   },
   "collectible1i10": {
     "data": {
-      "name": "Starlight Apple"
+      "name": "Mela lucente"
     }
   },
   "collectible1i11": {
     "data": {
-      "name": "Sweet Nerine"
+      "name": "Nerina dolce"
     }
   },
   "collectible1i12": {
     "data": {
-      "name": "Golden Sardine"
+      "name": "Sardina dorata"
     }
   },
   "collectible1i13": {
     "data": {
-      "name": "Keppo Carrot"
+      "name": "Carota Keppo"
     }
   },
   "collectible1i14": {
@@ -81,32 +81,32 @@
   },
   "collectible1i16": {
     "data": {
-      "name": "Anhydrous Radiator"
+      "name": "Radiatore anidro"
     }
   },
   "collectible1i17": {
     "data": {
-      "name": "Kiran Catnip"
+      "name": "Erba gatta Kiran"
     }
   },
   "collectible1i18": {
     "data": {
-      "name": "Crawling Bat"
+      "name": "Pipistrello strisciante"
     }
   },
   "collectible1i19": {
     "data": {
-      "name": "Zizi Rabbit"
+      "name": "Coniglio Zizi"
     }
   },
   "collectible1i20": {
     "data": {
-      "name": "Ancient Allure"
+      "name": "Richiamo primordiale"
     }
   },
   "collectible1i21": {
     "data": {
-      "name": "Hemp Wallet"
+      "name": "Borsa di canapa"
     }
   },
   "collectible1i22": {
@@ -116,27 +116,27 @@
   },
   "collectible1i23": {
     "data": {
-      "name": "Stretching Locust"
+      "name": "Locusta elastica"
     }
   },
   "collectible1i24": {
     "data": {
-      "name": "Multi-Speckled Ladybug"
+      "name": "Coccinella maculata"
     }
   },
   "collectible1i25": {
     "data": {
-      "name": "Centrifugal Beam Generator"
+      "name": "Generatore a raggi"
     }
   },
   "collectible1i26": {
     "data": {
-      "name": "Vagabond Ant"
+      "name": "Formica errante"
     }
   },
   "collectible1i27": {
     "data": {
-      "name": "Amidresian Tomato"
+      "name": "Pomodoro Amidoresia"
     }
   },
   "collectible1i28": {
@@ -151,7 +151,7 @@
   },
   "collectible1i30": {
     "data": {
-      "name": "Meditation Powder"
+      "name": "Polvere di meditazione"
     }
   },
   "collectible1i31": {
@@ -161,12 +161,12 @@
   },
   "collectible1i32": {
     "data": {
-      "name": "Fillal Filth"
+      "name": "Residuo cristallino"
     }
   },
   "collectible1i33": {
     "data": {
-      "name": "Sanelac Pearl"
+      "name": "Perla Sanelac"
     }
   },
   "collectible1i34": {
@@ -206,32 +206,32 @@
   },
   "collectible1i41": {
     "data": {
-      "name": "Auroran Bone"
+      "name": "Osso d'Aurora"
     }
   },
   "collectible1i42": {
     "data": {
-      "name": "Heatproof Inox Pipe"
+      "name": "Tubo inossidabile isolante"
     }
   },
   "collectible1i43": {
     "data": {
-      "name": "Rock-Orange"
+      "name": "Rocciarancia"
     }
   },
   "collectible1i44": {
     "data": {
-      "name": "Sadelana Lettuce"
+      "name": "Lattuga Sadelana"
     }
   },
   "collectible1i45": {
     "data": {
-      "name": "Mondcherry"
+      "name": "Mondociliegia"
     }
   },
   "collectible1i46": {
     "data": {
-      "name": "Doga Dandelion"
+      "name": "Tarassaco Doga"
     }
   },
   "collectible1i47": {
@@ -246,37 +246,37 @@
   },
   "collectible1i49": {
     "data": {
-      "name": "Tractor Beetle"
+      "name": "Scarabeo trattore"
     }
   },
   "collectible1i50": {
     "data": {
-      "name": "White Iron Sand"
+      "name": "Sabbia ferrifera bianca"
     }
   },
   "collectible1i51": {
     "data": {
-      "name": "Mosa Cabbage"
+      "name": "Cavolo Mosa"
     }
   },
   "collectible1i52": {
     "data": {
-      "name": "Sonar Lemon"
+      "name": "Limone sonar"
     }
   },
   "collectible1i53": {
     "data": {
-      "name": "Meteo Eater"
+      "name": "Mangiameteo"
     }
   },
   "collectible1i54": {
     "data": {
-      "name": "Assassin Springtail"
+      "name": "Collembolo assassino"
     }
   },
   "collectible1i55": {
     "data": {
-      "name": "US-X Space Suit"
+      "name": "Tuta spaziale US-X"
     }
   },
   "collectible1i56": {
@@ -296,17 +296,17 @@
   },
   "collectible1i59": {
     "data": {
-      "name": "California Sunset"
+      "name": "Tramonto californiano"
     }
   },
   "collectible1i60": {
     "data": {
-      "name": "Mirage Scope"
+      "name": "Miraggioscopio"
     }
   },
   "collectible1i61": {
     "data": {
-      "name": "Garudo Pellionia Minima"
+      "name": "Ortica minima Garudo"
     }
   },
   "collectible2i0": {
@@ -1506,7 +1506,7 @@
   },
   "loc0": {
     "data": {
-      "name": "Aaroy Plain"
+      "name": "Pianura Aaroy"
     }
   },
   "loc1": {
@@ -1556,7 +1556,7 @@
   },
   "loc10": {
     "data": {
-      "name": "Arendt Bridge"
+      "name": "Ponte Arendt"
     }
   },
   "loc11": {
@@ -1601,7 +1601,7 @@
   },
   "loc19": {
     "data": {
-      "name": "Barbarich Desert"
+      "name": "Deserto Barbarich"
     }
   },
   "loc20": {
@@ -1611,7 +1611,7 @@
   },
   "loc21": {
     "data": {
-      "name": "Beasts' Lair"
+      "name": "Tana delle Bestie"
     }
   },
   "loc22": {
@@ -1656,7 +1656,7 @@
   },
   "loc30": {
     "data": {
-      "name": "Biahno Lake"
+      "name": "Lago di Biahno"
     }
   },
   "loc31": {
@@ -1716,7 +1716,7 @@
   },
   "loc42": {
     "data": {
-      "name": "Castaway Cavern"
+      "name": "Caverna isolata"
     }
   },
   "loc43": {
@@ -1801,7 +1801,7 @@
   },
   "loc59": {
     "data": {
-      "name": "Cliffside Camp"
+      "name": "Campo sul Baratro"
     }
   },
   "loc60": {
@@ -1936,7 +1936,7 @@
   },
   "loc86": {
     "data": {
-      "name": "Elephant's Trunk"
+      "name": "Lunga Proboscide"
     }
   },
   "loc87": {
@@ -1961,7 +1961,7 @@
   },
   "loc91": {
     "data": {
-      "name": "Fallshorn Isle"
+      "name": "Isola Cascate Abissali"
     }
   },
   "loc92": {
@@ -1976,522 +1976,522 @@
   },
   "loc94": {
     "data": {
-      "name": "FN Site 101"
+      "name": "Sito FN 101"
     }
   },
   "loc95": {
     "data": {
-      "name": "FN Site 102"
+      "name": "Sito FN 102"
     }
   },
   "loc96": {
     "data": {
-      "name": "FN Site 103"
+      "name": "Sito FN 103"
     }
   },
   "loc97": {
     "data": {
-      "name": "FN Site 104"
+      "name": "Sito FN 104"
     }
   },
   "loc98": {
     "data": {
-      "name": "FN Site 105"
+      "name": "Sito FN 105"
     }
   },
   "loc99": {
     "data": {
-      "name": "FN Site 106"
+      "name": "Sito FN 106"
     }
   },
   "loc100": {
     "data": {
-      "name": "FN Site 107"
+      "name": "Sito FN 107"
     }
   },
   "loc101": {
     "data": {
-      "name": "FN Site 108"
+      "name": "Sito FN 108"
     }
   },
   "loc102": {
     "data": {
-      "name": "FN Site 109"
+      "name": "Sito FN 109"
     }
   },
   "loc103": {
     "data": {
-      "name": "FN Site 110"
+      "name": "Sito FN 110"
     }
   },
   "loc104": {
     "data": {
-      "name": "FN Site 111"
+      "name": "Sito FN 111"
     }
   },
   "loc105": {
     "data": {
-      "name": "FN Site 112"
+      "name": "Sito FN 112"
     }
   },
   "loc106": {
     "data": {
-      "name": "FN Site 113"
+      "name": "Sito FN 113"
     }
   },
   "loc107": {
     "data": {
-      "name": "FN Site 114"
+      "name": "Sito FN 114"
     }
   },
   "loc108": {
     "data": {
-      "name": "FN Site 115"
+      "name": "Sito FN 115"
     }
   },
   "loc109": {
     "data": {
-      "name": "FN Site 116"
+      "name": "Sito FN 116"
     }
   },
   "loc110": {
     "data": {
-      "name": "FN Site 117"
+      "name": "Sito FN 117"
     }
   },
   "loc111": {
     "data": {
-      "name": "FN Site 118"
+      "name": "Sito FN 118"
     }
   },
   "loc112": {
     "data": {
-      "name": "FN Site 119"
+      "name": "Sito FN 119"
     }
   },
   "loc113": {
     "data": {
-      "name": "FN Site 120"
+      "name": "Sito FN 120"
     }
   },
   "loc114": {
     "data": {
-      "name": "FN Site 121"
+      "name": "Sito FN 121"
     }
   },
   "loc115": {
     "data": {
-      "name": "FN Site 201"
+      "name": "Sito FN 201"
     }
   },
   "loc116": {
     "data": {
-      "name": "FN Site 202"
+      "name": "Sito FN 202"
     }
   },
   "loc117": {
     "data": {
-      "name": "FN Site 203"
+      "name": "Sito FN 203"
     }
   },
   "loc118": {
     "data": {
-      "name": "FN Site 204"
+      "name": "Sito FN 204"
     }
   },
   "loc119": {
     "data": {
-      "name": "FN Site 205"
+      "name": "Sito FN 205"
     }
   },
   "loc120": {
     "data": {
-      "name": "FN Site 206"
+      "name": "Sito FN 206"
     }
   },
   "loc121": {
     "data": {
-      "name": "FN Site 207"
+      "name": "Sito FN 207"
     }
   },
   "loc122": {
     "data": {
-      "name": "FN Site 208"
+      "name": "Sito FN 208"
     }
   },
   "loc123": {
     "data": {
-      "name": "FN Site 209"
+      "name": "Sito FN 209"
     }
   },
   "loc124": {
     "data": {
-      "name": "FN Site 210"
+      "name": "Sito FN 210"
     }
   },
   "loc125": {
     "data": {
-      "name": "FN Site 211"
+      "name": "Sito FN 211"
     }
   },
   "loc126": {
     "data": {
-      "name": "FN Site 212"
+      "name": "Sito FN 212"
     }
   },
   "loc127": {
     "data": {
-      "name": "FN Site 213"
+      "name": "Sito FN 213"
     }
   },
   "loc128": {
     "data": {
-      "name": "FN Site 214"
+      "name": "Sito FN 214"
     }
   },
   "loc129": {
     "data": {
-      "name": "FN Site 215"
+      "name": "Sito FN 215"
     }
   },
   "loc130": {
     "data": {
-      "name": "FN Site 216"
+      "name": "Sito FN 216"
     }
   },
   "loc131": {
     "data": {
-      "name": "FN Site 217"
+      "name": "Sito FN 217"
     }
   },
   "loc132": {
     "data": {
-      "name": "FN Site 218"
+      "name": "Sito FN 218"
     }
   },
   "loc133": {
     "data": {
-      "name": "FN Site 219"
+      "name": "Sito FN 219"
     }
   },
   "loc134": {
     "data": {
-      "name": "FN Site 220"
+      "name": "Sito FN 220"
     }
   },
   "loc135": {
     "data": {
-      "name": "FN Site 221"
+      "name": "Sito FN 221"
     }
   },
   "loc136": {
     "data": {
-      "name": "FN Site 222"
+      "name": "Sito FN 222"
     }
   },
   "loc137": {
     "data": {
-      "name": "FN Site 223"
+      "name": "Sito FN 223"
     }
   },
   "loc138": {
     "data": {
-      "name": "FN Site 224"
+      "name": "Sito FN 224"
     }
   },
   "loc139": {
     "data": {
-      "name": "FN Site 225"
+      "name": "Sito FN 225"
     }
   },
   "loc140": {
     "data": {
-      "name": "FN Site 301"
+      "name": "Sito FN 301"
     }
   },
   "loc141": {
     "data": {
-      "name": "FN Site 302"
+      "name": "Sito FN 302"
     }
   },
   "loc142": {
     "data": {
-      "name": "FN Site 303"
+      "name": "Sito FN 303"
     }
   },
   "loc143": {
     "data": {
-      "name": "FN Site 304"
+      "name": "Sito FN 304"
     }
   },
   "loc144": {
     "data": {
-      "name": "FN Site 305"
+      "name": "Sito FN 305"
     }
   },
   "loc145": {
     "data": {
-      "name": "FN Site 306"
+      "name": "Sito FN 306"
     }
   },
   "loc146": {
     "data": {
-      "name": "FN Site 307"
+      "name": "Sito FN 307"
     }
   },
   "loc147": {
     "data": {
-      "name": "FN Site 308"
+      "name": "Sito FN 308"
     }
   },
   "loc148": {
     "data": {
-      "name": "FN Site 309"
+      "name": "Sito FN 309"
     }
   },
   "loc149": {
     "data": {
-      "name": "FN Site 310"
+      "name": "Sito FN 310"
     }
   },
   "loc150": {
     "data": {
-      "name": "FN Site 311"
+      "name": "Sito FN 311"
     }
   },
   "loc151": {
     "data": {
-      "name": "FN Site 312"
+      "name": "Sito FN 312"
     }
   },
   "loc152": {
     "data": {
-      "name": "FN Site 313"
+      "name": "Sito FN 313"
     }
   },
   "loc153": {
     "data": {
-      "name": "FN Site 314"
+      "name": "Sito FN 314"
     }
   },
   "loc154": {
     "data": {
-      "name": "FN Site 315"
+      "name": "Sito FN 315"
     }
   },
   "loc155": {
     "data": {
-      "name": "FN Site 316"
+      "name": "Sito FN 316"
     }
   },
   "loc156": {
     "data": {
-      "name": "FN Site 317"
+      "name": "Sito FN 317"
     }
   },
   "loc157": {
     "data": {
-      "name": "FN Site 318"
+      "name": "Sito FN 318"
     }
   },
   "loc158": {
     "data": {
-      "name": "FN Site 319"
+      "name": "Sito FN 319"
     }
   },
   "loc159": {
     "data": {
-      "name": "FN Site 320"
+      "name": "Sito FN 320"
     }
   },
   "loc160": {
     "data": {
-      "name": "FN Site 321"
+      "name": "Sito FN 321"
     }
   },
   "loc161": {
     "data": {
-      "name": "FN Site 322"
+      "name": "Sito FN 322"
     }
   },
   "loc162": {
     "data": {
-      "name": "FN Site 401"
+      "name": "Sito FN 401"
     }
   },
   "loc163": {
     "data": {
-      "name": "FN Site 402"
+      "name": "Sito FN 402"
     }
   },
   "loc164": {
     "data": {
-      "name": "FN Site 403"
+      "name": "Sito FN 403"
     }
   },
   "loc165": {
     "data": {
-      "name": "FN Site 404"
+      "name": "Sito FN 404"
     }
   },
   "loc166": {
     "data": {
-      "name": "FN Site 405"
+      "name": "Sito FN 405"
     }
   },
   "loc167": {
     "data": {
-      "name": "FN Site 406"
+      "name": "Sito FN 406"
     }
   },
   "loc168": {
     "data": {
-      "name": "FN Site 407"
+      "name": "Sito FN 407"
     }
   },
   "loc169": {
     "data": {
-      "name": "FN Site 408"
+      "name": "Sito FN 408"
     }
   },
   "loc170": {
     "data": {
-      "name": "FN Site 409"
+      "name": "Sito FN 409"
     }
   },
   "loc171": {
     "data": {
-      "name": "FN Site 410"
+      "name": "Sito FN 410"
     }
   },
   "loc172": {
     "data": {
-      "name": "FN Site 411"
+      "name": "Sito FN 411"
     }
   },
   "loc173": {
     "data": {
-      "name": "FN Site 412"
+      "name": "Sito FN 412"
     }
   },
   "loc174": {
     "data": {
-      "name": "FN Site 413"
+      "name": "Sito FN 413"
     }
   },
   "loc175": {
     "data": {
-      "name": "FN Site 414"
+      "name": "Sito FN 414"
     }
   },
   "loc176": {
     "data": {
-      "name": "FN Site 415"
+      "name": "Sito FN 415"
     }
   },
   "loc177": {
     "data": {
-      "name": "FN Site 416"
+      "name": "Sito FN 416"
     }
   },
   "loc178": {
     "data": {
-      "name": "FN Site 417"
+      "name": "Sito FN 417"
     }
   },
   "loc179": {
     "data": {
-      "name": "FN Site 418"
+      "name": "Sito FN 418"
     }
   },
   "loc180": {
     "data": {
-      "name": "FN Site 419"
+      "name": "Sito FN 419"
     }
   },
   "loc181": {
     "data": {
-      "name": "FN Site 420"
+      "name": "Sito FN 420"
     }
   },
   "loc182": {
     "data": {
-      "name": "FN Site 501"
+      "name": "Sito FN 501"
     }
   },
   "loc183": {
     "data": {
-      "name": "FN Site 502"
+      "name": "Sito FN 502"
     }
   },
   "loc184": {
     "data": {
-      "name": "FN Site 503"
+      "name": "Sito FN 503"
     }
   },
   "loc185": {
     "data": {
-      "name": "FN Site 504"
+      "name": "Sito FN 504"
     }
   },
   "loc186": {
     "data": {
-      "name": "FN Site 505"
+      "name": "Sito FN 505"
     }
   },
   "loc187": {
     "data": {
-      "name": "FN Site 506"
+      "name": "Sito FN 506"
     }
   },
   "loc188": {
     "data": {
-      "name": "FN Site 507"
+      "name": "Sito FN 507"
     }
   },
   "loc189": {
     "data": {
-      "name": "FN Site 508"
+      "name": "Sito FN 508"
     }
   },
   "loc190": {
     "data": {
-      "name": "FN Site 509"
+      "name": "Sito FN 509"
     }
   },
   "loc191": {
     "data": {
-      "name": "FN Site 510"
+      "name": "Sito FN 510"
     }
   },
   "loc192": {
     "data": {
-      "name": "FN Site 511"
+      "name": "Sito FN 511"
     }
   },
   "loc193": {
     "data": {
-      "name": "FN Site 512"
+      "name": "Sito FN 512"
     }
   },
   "loc194": {
     "data": {
-      "name": "FN Site 513"
+      "name": "Sito FN 513"
     }
   },
   "loc195": {
     "data": {
-      "name": "FN Site 514"
+      "name": "Sito FN 514"
     }
   },
   "loc196": {
     "data": {
-      "name": "FN Site 515"
+      "name": "Sito FN 515"
     }
   },
   "loc197": {
     "data": {
-      "name": "FN Site 516"
+      "name": "Sito FN 516"
     }
   },
   "loc198": {
@@ -2636,7 +2636,7 @@
   },
   "loc226": {
     "data": {
-      "name": "Headwater Summit"
+      "name": "Vetta Sorgente"
     }
   },
   "loc227": {
@@ -2651,7 +2651,7 @@
   },
   "loc229": {
     "data": {
-      "name": "Humdrum Peaks"
+      "name": "Vette Monotone"
     }
   },
   "loc230": {
@@ -2721,7 +2721,7 @@
   },
   "loc243": {
     "data": {
-      "name": "Janpath Lake"
+      "name": "Lago Janpath"
     }
   },
   "loc244": {
@@ -2731,12 +2731,12 @@
   },
   "loc245": {
     "data": {
-      "name": "Keegan Ridge"
+      "name": "Crinale Keegan"
     }
   },
   "loc246": {
     "data": {
-      "name": "King's Falls"
+      "name": "Cascate del Re"
     }
   },
   "loc247": {
@@ -2781,7 +2781,7 @@
   },
   "loc255": {
     "data": {
-      "name": "Leaning Ring"
+      "name": "Anello Arcano"
     }
   },
   "loc256": {
@@ -2941,7 +2941,7 @@
   },
   "loc287": {
     "data": {
-      "name": "North Coast"
+      "name": "Costa Nord"
     }
   },
   "loc288": {
@@ -2951,7 +2951,7 @@
   },
   "loc289": {
     "data": {
-      "name": "North Janpath Plain"
+      "name": "Piana nord Janpath"
     }
   },
   "loc290": {
@@ -2966,7 +2966,7 @@
   },
   "loc292": {
     "data": {
-      "name": "Northpointe Beach"
+      "name": "Litorale Puntanord"
     }
   },
   "loc293": {
@@ -3046,7 +3046,7 @@
   },
   "loc308": {
     "data": {
-      "name": "Oblivia Ingress"
+      "name": "Le Porte di Oblivia"
     }
   },
   "loc309": {
@@ -3056,7 +3056,7 @@
   },
   "loc310": {
     "data": {
-      "name": "Old Dragontail Tree"
+      "name": "Vetustalbero Dragospino"
     }
   },
   "loc311": {
@@ -3071,7 +3071,7 @@
   },
   "loc313": {
     "data": {
-      "name": "Potter's Rock"
+      "name": "Roccia Anfora"
     }
   },
   "loc314": {
@@ -3156,7 +3156,7 @@
   },
   "loc330": {
     "data": {
-      "name": "Roof Rock"
+      "name": "Tetto di Roccia"
     }
   },
   "loc331": {
@@ -3181,12 +3181,12 @@
   },
   "loc335": {
     "data": {
-      "name": "Rust Lake"
+      "name": "Lago Ruggine"
     }
   },
   "loc336": {
     "data": {
-      "name": "Rustpool Banks"
+      "name": "Pozze di Ruggine"
     }
   },
   "loc337": {
@@ -3261,7 +3261,7 @@
   },
   "loc351": {
     "data": {
-      "name": "Seaswept Ridge"
+      "name": "Crinale Tempesta Marina"
     }
   },
   "loc352": {
@@ -3286,7 +3286,7 @@
   },
   "loc356": {
     "data": {
-      "name": "Shadow Rise"
+      "name": "Cima Ombraoscura"
     }
   },
   "loc357": {
@@ -3301,12 +3301,12 @@
   },
   "loc359": {
     "data": {
-      "name": "Sickle Rock Rise"
+      "name": "Colle Roccafalce"
     }
   },
   "loc360": {
     "data": {
-      "name": "Silent Mire"
+      "name": "Palude Silente"
     }
   },
   "loc361": {
@@ -3341,7 +3341,7 @@
   },
   "loc367": {
     "data": {
-      "name": "South Coast"
+      "name": "Costa Sud"
     }
   },
   "loc368": {
@@ -3366,7 +3366,7 @@
   },
   "loc372": {
     "data": {
-      "name": "Starfall Basin"
+      "name": "Bacino della Cometa"
     }
   },
   "loc373": {
@@ -3461,7 +3461,7 @@
   },
   "loc391": {
     "data": {
-      "name": "Talon Rock Second Terrane"
+      "name": "Roccia Sperone piana II"
     }
   },
   "loc392": {
@@ -3471,7 +3471,7 @@
   },
   "loc393": {
     "data": {
-      "name": "Talon Rock Third Terrane"
+      "name": "Roccia Sperone piana III"
     }
   },
   "loc394": {
@@ -3501,7 +3501,7 @@
   },
   "loc399": {
     "data": {
-      "name": "Twin Arches"
+      "name": "Archi Gemelli"
     }
   },
   "loc400": {
@@ -3551,7 +3551,7 @@
   },
   "loc409": {
     "data": {
-      "name": "West Gate Plain"
+      "name": "Pianura cancello ovest"
     }
   },
   "loc410": {
@@ -3571,7 +3571,7 @@
   },
   "loc413": {
     "data": {
-      "name": "Whale's Nostril"
+      "name": "Soffio di Balena"
     }
   },
   "loc414": {
@@ -3611,7 +3611,7 @@
   },
   "loc421": {
     "data": {
-      "name": "Yawning Giant"
+      "name": "Crepa del Gigante"
     }
   },
   "collectibleset1i1": {
@@ -3891,112 +3891,112 @@
   },
   "probe1": {
     "data": {
-      "name": "Basic Probe"
+      "name": "Sonda base"
     }
   },
   "probe2": {
     "data": {
-      "name": "Mining Probe G1"
+      "name": "Sonda da estrazione G1"
     }
   },
   "probe3": {
     "data": {
-      "name": "Mining Probe G2"
+      "name": "Sonda da estrazione G2"
     }
   },
   "probe4": {
     "data": {
-      "name": "Mining Probe G3"
+      "name": "Sonda da estrazione G3"
     }
   },
   "probe5": {
     "data": {
-      "name": "Mining Probe G4"
+      "name": "Sonda da estrazione G4"
     }
   },
   "probe6": {
     "data": {
-      "name": "Mining Probe G5"
+      "name": "Sonda da estrazione G5"
     }
   },
   "probe7": {
     "data": {
-      "name": "Mining Probe G6"
+      "name": "Sonda da estrazione G6"
     }
   },
   "probe8": {
     "data": {
-      "name": "Mining Probe G7"
+      "name": "Sonda da estrazione G7"
     }
   },
   "probe9": {
     "data": {
-      "name": "Mining Probe G8"
+      "name": "Sonda da estrazione G8"
     }
   },
   "probe10": {
     "data": {
-      "name": "Mining Probe G9"
+      "name": "Sonda da estrazione G9"
     }
   },
   "probe11": {
     "data": {
-      "name": "Mining Probe G10"
+      "name": "Sonda da estrazione G10"
     }
   },
   "probe12": {
     "data": {
-      "name": "Research Probe G1"
+      "name": "Sonda di ricerca G1"
     }
   },
   "probe13": {
     "data": {
-      "name": "Research Probe G2"
+      "name": "Sonda di ricerca G2"
     }
   },
   "probe14": {
     "data": {
-      "name": "Research Probe G3"
+      "name": "Sonda di ricerca G3"
     }
   },
   "probe15": {
     "data": {
-      "name": "Research Probe G4"
+      "name": "Sonda di ricerca G4"
     }
   },
   "probe16": {
     "data": {
-      "name": "Research Probe G5"
+      "name": "Sonda di ricerca G5"
     }
   },
   "probe17": {
     "data": {
-      "name": "Research Probe G6"
+      "name": "Sonda di ricerca G6"
     }
   },
   "probe18": {
     "data": {
-      "name": "Booster Probe G1"
+      "name": "Sonda potenziatrice G1"
     }
   },
   "probe19": {
     "data": {
-      "name": "Booster Probe G2"
+      "name": "Sonda potenziatrice G2"
     }
   },
   "probe20": {
     "data": {
-      "name": "Duplicator Probe"
+      "name": "Sonda copia"
     }
   },
   "probe21": {
     "data": {
-      "name": "Storage Probe"
+      "name": "Sonda di stoccaggio"
     }
   },
   "probe22": {
     "data": {
-      "name": "Any Combat Probe"
+      "name": "Sonda da battaglia"
     }
   },
   "etgZ8iwO": {
@@ -4181,7 +4181,7 @@
   },
   "ezdfgzch": {
     "data": {
-      "name": "Bohdan, the Mistral"
+      "name": "Bohdan il Maestrale"
     }
   },
   "e1I5R1p3": {
@@ -4231,7 +4231,7 @@
   },
   "eeNh781b": {
     "data": {
-      "name": "Casper, the Unhealthy Eater"
+      "name": "Casper l'Ingordo"
     }
   },
   "e0eQDNdq": {
@@ -4381,7 +4381,7 @@
   },
   "eWQ5CRpy": {
     "data": {
-      "name": "Edgardo, the Carefree"
+      "name": "Edgardo lo Spensierato"
     }
   },
   "edGAmV2l": {
@@ -4451,7 +4451,7 @@
   },
   "eHwM2EDq": {
     "data": {
-      "name": "Eutropio, the Sea Rumble"
+      "name": "Eutropio la Burrasca Marina"
     }
   },
   "eP61iGKv": {
@@ -4461,7 +4461,7 @@
   },
   "eJ1bAbEi": {
     "data": {
-      "name": "Experimental Composite Qmoeva"
+      "name": "Qmoeva composito sperimentale"
     }
   },
   "ef6HbkjL": {
@@ -4486,7 +4486,7 @@
   },
   "ebpF8IC1": {
     "data": {
-      "name": "Feliciano, the All-Seeing"
+      "name": "Feliciano il Chiaroveggente"
     }
   },
   "e41seEBe": {
@@ -4746,7 +4746,7 @@
   },
   "eXFCgol2": {
     "data": {
-      "name": "Luciel, the Eternal"
+      "name": "Luciel l'Eterno"
     }
   },
   "eMNc9Yi5": {
@@ -4796,7 +4796,7 @@
   },
   "eTDgAowk": {
     "data": {
-      "name": "Mesgen, the Fairweathered"
+      "name": "Mesgen l'Opportunista"
     }
   },
   "etSU74VR": {
@@ -5336,7 +5336,7 @@
   },
   "mission126-8": {
     "data": {
-      "name": "The Repair Job"
+      "name": "L'intervento di riparazione"
     }
   },
   "mission142-6": {
@@ -5356,12 +5356,12 @@
   },
   "mission153-8": {
     "data": {
-      "name": "Cinicula Assault"
+      "name": "Assalto alla Cinicula"
     }
   },
   "mission154-9": {
     "data": {
-      "name": "Renewed Will"
+      "name": "Rinnovata volontà"
     }
   },
   "mission162-8": {
@@ -5371,7 +5371,7 @@
   },
   "mission173-10": {
     "data": {
-      "name": "City Saviors"
+      "name": "I salvatori della città"
     }
   },
   "mission19-1-8": {
@@ -5391,7 +5391,7 @@
   },
   "mission1101-11": {
     "data": {
-      "name": "Welcome Back, Conner"
+      "name": "Bentornato, Conner!"
     }
   },
   "mission1110-11": {
@@ -5406,12 +5406,12 @@
   },
   "mission112-2-10": {
     "data": {
-      "name": "We Were Soldiers"
+      "name": "Una volta eravamo soldati"
     }
   },
   "mission1131-14": {
     "data": {
-      "name": "Nine Lives"
+      "name": "Nove vite"
     }
   },
   "mission1142-16": {
@@ -5506,7 +5506,7 @@
   },
   "mission278-15": {
     "data": {
-      "name": "Close Comrades"
+      "name": "Compagni affiatati"
     }
   },
   "mission2713-20": {
@@ -5546,7 +5546,7 @@
   },
   "mission21014-24": {
     "data": {
-      "name": "Data Miner"
+      "name": "Estrattore di dati"
     }
   },
   "mission316-7": {
@@ -5576,7 +5576,7 @@
   },
   "mission363-9": {
     "data": {
-      "name": "Mayday"
+      "name": "Richiesta d'aiuto"
     }
   },
   "mission367-13": {
@@ -5841,22 +5841,22 @@
   },
   "lv1": {
     "data": {
-      "name": "Collectibles"
+      "name": "Collezionabili"
     }
   },
   "lv2": {
     "data": {
-      "name": "Segments"
+      "name": "Settori"
     }
   },
   "lv3": {
     "data": {
-      "name": "Probes"
+      "name": "Sonde"
     }
   },
   "lv4": {
     "data": {
-      "name": "Enemies"
+      "name": "Nemici"
     }
   },
   "lv5": {
@@ -5876,17 +5876,17 @@
   },
   "n1": {
     "data": {
-      "name": "Vegetables"
+      "name": "Vegetali"
     }
   },
   "n2": {
     "data": {
-      "name": "Insects"
+      "name": "Insetti"
     }
   },
   "n3": {
     "data": {
-      "name": "Fruits"
+      "name": "Frutti"
     }
   },
   "n4": {
@@ -5901,27 +5901,27 @@
   },
   "n6": {
     "data": {
-      "name": "Natural Artifacts"
+      "name": "Artefatti naturali"
     }
   },
   "n7": {
     "data": {
-      "name": "Wreckage"
+      "name": "Rottami"
     }
   },
   "n8": {
     "data": {
-      "name": "Relics"
+      "name": "Reliquie"
     }
   },
   "n9": {
     "data": {
-      "name": "Xenotech"
+      "name": "Tecnologie Xeno"
     }
   },
   "n10": {
     "data": {
-      "name": "Curios"
+      "name": "Misteriosi"
     }
   },
   "n11": {
@@ -5936,7 +5936,7 @@
   },
   "n13": {
     "data": {
-      "name": "Landmark"
+      "name": "Punti di Riferimento"
     }
   },
   "n14": {
@@ -6066,12 +6066,12 @@
   },
   "n38": {
     "data": {
-      "name": "Segments"
+      "name": "Settori"
     }
   },
   "n289": {
     "data": {
-      "name": "Segments"
+      "name": "Settori"
     }
   },
   "n290": {
@@ -6081,12 +6081,12 @@
   },
   "n291": {
     "data": {
-      "name": "BLADE Barracks"
+      "name": "Caserma BLADE"
     }
   },
   "n292": {
     "data": {
-      "name": "Segments"
+      "name": "Settori"
     }
   },
   "n323": {
@@ -6111,7 +6111,7 @@
   },
   "n325": {
     "data": {
-      "name": "Fathers and Sons"
+      "name": "Padri e figli"
     }
   },
   "n326": {
@@ -6136,22 +6136,22 @@
   },
   "n645": {
     "data": {
-      "name": "Barracks Interior"
+      "name": "Interno della caserma"
     }
   },
   "n780": {
     "data": {
-      "name": "Deliverance Park"
+      "name": "Parco della Salvezza"
     }
   },
   "n781": {
     "data": {
-      "name": "Cathedral"
+      "name": "Cattedrale"
     }
   },
   "n782": {
     "data": {
-      "name": "Sports Complex"
+      "name": "Centro sportivo"
     }
   },
   "n783": {
@@ -6161,27 +6161,27 @@
   },
   "n784": {
     "data": {
-      "name": "Water Purification Plant"
+      "name": "Impianto purif. acqua"
     }
   },
   "n331": {
     "data": {
-      "name": "Mimeosome Maintenance Center"
+      "name": "Centro manutenzione"
     }
   },
   "n332": {
     "data": {
-      "name": "BLADE Tower"
+      "name": "Torre BLADE"
     }
   },
   "n333": {
     "data": {
-      "name": "Armory Alley"
+      "name": "Via dell'Armeria"
     }
   },
   "n334": {
     "data": {
-      "name": "BLADE Concourse"
+      "name": "Ingresso BLADE"
     }
   },
   "n335": {
@@ -6191,62 +6191,62 @@
   },
   "n336": {
     "data": {
-      "name": "Division Drive"
+      "name": "Via delle Divisioni"
     }
   },
   "n337": {
     "data": {
-      "name": "East Gate"
+      "name": "Cancello est"
     }
   },
   "n828": {
     "data": {
-      "name": "Outfitters Test Hangar"
+      "name": "Hangar test Outfitter"
     }
   },
   "n829": {
     "data": {
-      "name": "Integrated Production Plant"
+      "name": "Centro produz. integrata"
     }
   },
   "n830": {
     "data": {
-      "name": "Central Industrial District"
+      "name": "Zona industriale centro"
     }
   },
   "n831": {
     "data": {
-      "name": "Repenta Diner"
+      "name": "Tavola calda Repenta"
     }
   },
   "n339": {
     "data": {
-      "name": "West Gate"
+      "name": "Cancello ovest"
     }
   },
   "n648": {
     "data": {
-      "name": "West Melville Street"
+      "name": "Via Melville ovest"
     }
   },
   "n649": {
     "data": {
-      "name": "Central Melville Street"
+      "name": "Via Melville centrale"
     }
   },
   "n650": {
     "data": {
-      "name": "East Melville Street"
+      "name": "Via Melville est"
     }
   },
   "n651": {
     "data": {
-      "name": "Barista Court"
+      "name": "Piazza Frappè"
     }
   },
   "n652": {
     "data": {
-      "name": "North Founders Street"
+      "name": "Prima Nord"
     }
   },
   "n806": {
@@ -6306,12 +6306,12 @@
   },
   "n656": {
     "data": {
-      "name": "Planetary Pioneer (Part IV)"
+      "name": "Pionieri planetari (Part IV)"
     }
   },
   "n810": {
     "data": {
-      "name": "Myles to Go"
+      "name": "Consegne per Myles"
     }
   },
   "n833": {
@@ -6386,7 +6386,7 @@
   },
   "n874": {
     "data": {
-      "name": "Yardley's Scheme"
+      "name": "Il piano di Yardley"
     }
   },
   "n876": {
@@ -6461,7 +6461,7 @@
   },
   "miscind505": {
     "data": {
-      "name": "Rise of the Blood Lobster"
+      "name": "L'ascesa dell'Astice sanguinario"
     }
   },
   "h2hscind555": {
@@ -6581,7 +6581,7 @@
   },
   "misccomm415": {
     "data": {
-      "name": "Planetary Pioneer (Part III)"
+      "name": "Pionieri planetari (Part III)"
     }
   },
   "h2hsccomm520": {
@@ -6606,12 +6606,12 @@
   },
   "misccomm680": {
     "data": {
-      "name": "A Hero's Ride"
+      "name": "Soccorso eroico"
     }
   },
   "misccomm730": {
     "data": {
-      "name": "Better Latte Than Never"
+      "name": "La barista maldestra"
     }
   },
   "h2hsccomm780": {
@@ -6641,7 +6641,7 @@
   },
   "afmissccomm905": {
     "data": {
-      "name": "The Ties That Bind"
+      "name": "I legami che uniscono"
     }
   },
   "misccomm930": {
@@ -6841,7 +6841,7 @@
   },
   "miscres880": {
     "data": {
-      "name": "Planetary Pioneer (Part V)"
+      "name": "Pionieri planetari (Part V)"
     }
   },
   "h2hscres930": {
@@ -6951,7 +6951,7 @@
   },
   "miscadm375": {
     "data": {
-      "name": "BLADE Level Basics"
+      "name": "Livello BLADE: Le basi"
     }
   },
   "h2hscadm430": {
@@ -6961,7 +6961,7 @@
   },
   "miscadm465": {
     "data": {
-      "name": "The Probe-fessional"
+      "name": "Il professionista delle sonde"
     }
   },
   "miscadm670": {
@@ -7006,7 +7006,7 @@
   },
   "miscadm1030": {
     "data": {
-      "name": "Planetary Pioneer (Part II)"
+      "name": "Pionieri planetari (Part II)"
     }
   },
   "h2hscadm1055": {
@@ -7057,11 +7057,6 @@
   "h2hscadm1470": {
     "data": {
       "name": "Nagi's 1st Heart-to-Heart"
-    }
-  },
-  "n350": {
-    "data": {
-      "name": "Planetary Pioneer (Part I)"
     }
   }
 }
